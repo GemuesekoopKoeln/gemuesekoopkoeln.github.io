@@ -136,8 +136,7 @@ Und hier die einzelnen Teams und Gremien:
    src="assets/images/konzept_solawi/Orga Struktur.jpg" />
 </div>
 
-Wir haben für unsere Teams Supervision und falls es Konflikte gibt eine Mediation, das ist uns wichtig und hilft uns dabei, als unterschiedliche Menschen so einen komplexen Job gemeinsam mit Freude zu machen. Klare Zuständigkeiten und eine gute gemeinsame Kultur helfen uns dabei. 
-
+Wir haben für unsere Teams Supervision und falls es Konflikte gibt eine Mediation. Das ist uns wichtig und unterstützt uns dabei als Team gut zusammenzuarbeiten. Wir haben klare Zuständigkeiten und eine leben eine gute gemeinsame Kultur im Betrieb. 
 
 
 ## Unsere Arbeitnehmer\*innen
@@ -155,7 +154,7 @@ Wir haben ein Bild vom Menschen und vom Zusammenleben zwischen Menschen, das –
 
 Im Betrieb haben wir eine mehrstufige Organisationsstruktur, mit Arbeitsteilung und Delegation vieler Entscheidungen zum einen an diejenigen Aktiven, die faktisch die Arbeit durch ihre Zeit und ihren Einsatz tragen, und zum anderen an die Menschen mit Kompetenz und Erfahrung in der jeweiligen Aufgabe.
 
-Die Unterschiedlichkeit der Individuen in ihren Fähigkeiten, Lebenserfahrungen und Überzeugungen ist die Basis für unser tun. Unser Ziel ist es, diese Vielfalt zum Blühen zu bringen und aus der Unterschiedlichkeit aller Menschen in der Gruppe zu schöpfen. Solch eine Art des Zusammenseins und Zusammenarbeitens kann nicht nur sehr erfüllend sein, sondern auch hochproduktiv.
+Die Unterschiedlichkeit der Individuen in ihren Fähigkeiten, Lebenserfahrungen und Überzeugungen ist die Basis für unser tun. Unser Ziel ist es, diese Vielfalt zum Blühen zu bringen und aus der Unterschiedlichkeit aller Menschen in der Gruppe zu schöpfen. 
 
 
 ## Bildung
