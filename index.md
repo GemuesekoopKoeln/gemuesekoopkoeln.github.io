@@ -76,7 +76,7 @@ E-Mail Adresse: *Mailchimp*
 
   {% include testimonial.html image="Mitglied-200x200.jpg" text="Danke für Euren tollen Einsatz und die liebevolle Arbeit. Man schmeckt es dem Gemüse an 💚" %}
 
-  {% include testimonial.html image="Mitglied-200x200.jpg" text=Danke für all eure Ideen, Motivation und Kreativität. Es ist großartig, dass es euch gibt und die Idee weiter wächst." %}
+  {% include testimonial.html image="Mitglied-200x200.jpg" text="Danke für all eure Ideen, Motivation und Kreativität. Es ist großartig, dass es euch gibt und die Idee weiter wächst." %}
 
 
   <!-- Next and previous buttons -->
