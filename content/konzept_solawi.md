@@ -73,7 +73,7 @@ Spezielle Betriebsbereiche, wie z.B. Lastenräder für die Verteilung der Lebens
 
 ## Gemeinschaft
 
-Die Mitglieder sind auf ihrem Hof willkommen und können mithelfen und Einblicke in den Gemüse- und Obstbau bekommen. Besonders die Erntetage mit dem gemeinsamen Frühstück sind ein Higlight. Bei Aktionstagen und größeren Projekten wie z.B. Aufbau eines Folientunnels kommen viele Mitglieder zusammen und es wird in der Gemeinschaft gearbeitet. Für eigene Projekte können AGs gegründet werden, die den Hof nutzen und auch von der Koop finanziell unterstützt werden können. 
+Die Mitglieder sind auf ihrem Hof willkommen und können mithelfen und Einblicke in den Gemüse- und Obstbau bekommen. Besonders die Ernte-Tage mit dem gemeinsamen Frühstück sind ein Higlight. Bei Aktionstagen und größeren Projekten wie z.B. Aufbau eines Folientunnels kommen viele Mitglieder zusammen und es wird in der Gemeinschaft gearbeitet. Für eigene Projekte können AGs gegründet werden, die den Hof nutzen und auch von der Koop finanziell unterstützt werden können. 
 
 Die Depots sind von den Mitgliedern selbst organisiert. Neben dem Gemüse abholen, soll auch mal saubergemacht werden und bei manchen Depots gibt es Depot-Dienste. Ziel ist auch, dass die Mitglieder sich in den Stadtvierteln organisieren, so kann eine Gemeinschaft aufgebaut werden, in der man sich unterstützt und gemeinsame Projekte verwirklichen kann.
 
