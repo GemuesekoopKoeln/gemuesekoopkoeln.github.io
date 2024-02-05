@@ -48,7 +48,7 @@ E-Mail Adresse: *Mailchimp*
 
   {% include testimonial.html image="maren-200x200.jpg" text="Die Gemüsekoop ist für mich viel mehr als Gemüse. Wir sind eine Gemeinschaft geworden und schaffen einen Raum, in dem Wertschätzung, Solidarität und Gestaltung erlebt und gelebt werden können." name="Maren" position="Orga-Team" %}
 
-  {% include testimonial.html image="Mitglied-200x200.jpg" text='Es war mein erstes Jahr Solawi und ich finde es super! Neben dem ganzen Projekt gibt es für mich auch ganz klar "egoistische" Vorzüge: Ich schmeisse weniger essen weg, weil das Gemüse einfach frisch ist und viel länger hält. Außerdem ernähre ich mich besser und koche kreativer, was mir sehr viel Spaß macht. Dafür zahle ich gerne den Beitrag. Danke!' name="" position="Mitglied" %}
+  {% include testimonial.html image="Mitglied-200x200.jpg" text="Es war mein erstes Jahr Solawi und ich finde es super! Neben dem ganzen Projekt gibt es für mich auch ganz klar &#8243;egoistische&#8243; Vorzüge: Ich schmeisse weniger essen weg, weil das Gemüse einfach frisch ist und viel länger hält. Außerdem ernähre ich mich besser und koche kreativer, was mir sehr viel Spaß macht. Dafür zahle ich gerne den Beitrag. Danke!" name="" position="Mitglied" %}
 
   {% include testimonial.html image="Mitglied-200x200.jpg" text="Danke danke danke für euer Herzblut und all eure Arbeit in diesem Projekt für so viel Gemüse für so so viele Menschen 💪👏" name="" position="Mitglied" %}
 
@@ -58,7 +58,7 @@ E-Mail Adresse: *Mailchimp*
 
   {% include testimonial.html image="Mitglied-200x200.jpg" text="Auch wenn ich es so gut wie nie auf den Acker schaffe, bin ich sehr stolz und froh, seit Anbeginn bei der Gemüsekoop dabei zu sein 💪☺️👍 Herzliche Grüße!" name="" position="Mitglied" %}
 
-  {% include testimonial.html image="Mitglied-200x200.jpg" text='Immer wenn ich die Erntemail bekomme und vom "Kreislauf der Natur " lese freue ich mich ein Teil davon zu sein. So als schöner Kontrast zur anderen Welt. Liebe und Respekt!' name="" position="Mitglied" %}
+  {% include testimonial.html image="Mitglied-200x200.jpg" text="Immer wenn ich die Erntemail bekomme und vom &#8243;Kreislauf der Natur&#8243; lese freue ich mich ein Teil davon zu sein. So als schöner Kontrast zur anderen Welt. Liebe und Respekt!" name="" position="Mitglied" %}
 
   {% include testimonial.html image="Mitglied-200x200.jpg" text="Das ist der mit Abstand tollste Verein, in dem ich je eingetreten bin - tausend Dank an die vielen fleißigen Hände, die das Projekt ermöglichen!" name="" position="Mitglied" %}
 
@@ -76,7 +76,7 @@ E-Mail Adresse: *Mailchimp*
 
   {% include testimonial.html image="Mitglied-200x200.jpg" text="Danke für Euren tollen Einsatz und die liebevolle Arbeit. Man schmeckt es dem Gemüse an 💚" %}
 
-  {% include testimonial.html image="Mitglied-200x200.jpg" text="Danke für all eure Ideen, Motivation und Kreativität. Es ist großartig, dass es euch gibt und die Idee weiter wächst." %}
+  {% include testimonial.html image="Mitglied-200x200.jpg" text=Danke für all eure Ideen, Motivation und Kreativität. Es ist großartig, dass es euch gibt und die Idee weiter wächst." %}
 
 
   <!-- Next and previous buttons -->
