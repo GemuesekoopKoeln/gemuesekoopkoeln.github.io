@@ -92,8 +92,6 @@ Wir legen Wert auf Blühstreifen, Imkerei, Feuchtbiotope und achten auf umweltve
 
 Ein langfristiges Ziel ist es, standortangepasste Sorten anzubauen und ggf. züchterisch weiter zu entwickeln. Damit wir die Möglichkeit haben, Pflanzen aus dem eigenen Saatgut wieder nachzubauen, möchten wir einen möglichst hohen Anteil an samenfesten Sorten im Anbau verwenden und eine eigene Jungpflanzenaufzucht aufbauen. Dies wäre ein wichtiger Schritt in Richtung Unabhängigkeit und Ernährungssouveränität.
 
-Was die Tierhaltung angeht, möchten wir klein starten und uns dann in ein paar Jahren, wenn sich alles gut eingespielt hat, vergrößern und vielfältiger aufstellen. Die Nutztiere sollten möglichst robust und an unseren Standort angepasst sein. Neben tierischen Produkten wie Fleisch, Eier etc. tragen die Tiere auch zur Landschaftspflege bei und haben weitere nützliche Funktionen im Agrarökosystem. Tiere sind für den Gemüsebau wichtig, weil sie einen großen Beitrag zur Bodenfruchtbarkeit leisten. Sie können Erntereste verwerten und in wichtigen organischen Dünger (Mist) umsetzen. Durch den Umsatz von hofeigenem und zugekauftem Futter tragen sie maßgeblich zu einer ausgeglichenen Hoftorbilanz bei. Auch deshalb streben wir eine, der Flächengröße angepasste, vielfältige Tierhaltung an.
-
 Wir überlegen noch, ob wir einem Bio-Anbauverband beitreten möchten. Bei Bioland haben wir einen Beratungsvertrag und dadurch Zugriff auf das Netzwerk und Veranstaltungen. Einmal im Jahr besucht uns ein Berater von Bioland und diskutiert mit uns den Anbau. Da unsere Mitglieder jederzeit auf den Hof kommen können und wir unseren Anbau transparent gestalten, ist eine Zertifizierung nicht unbedingt notwendig. 
 
 Wir wollen unsere Produktionsmittel auf kurzen Wegen aus der Region beziehen und damit ein Netzwerk aus kooperierenden Betrieben aufbauen. Das könnte z.B. eine Futter-Mist-Kooperation mit einem benachbarten Bio-Bauer oder eine gemeinsame Jungpflanzenaufzucht mehrerer Betriebe sein.
@@ -103,15 +101,11 @@ Generell ist uns ein verantwortungsvoller Umgang mit Ressourcen wichtig. Wir mö
 
 ## Tierhaltung
 
-Wir wollen primär Gemüse produzieren. Perspektivisch wäre es schön, unsere Mitglieder auch noch mit Obst und z.B. Eiern versorgen zu können.
+Wir wollen primär Gemüse produzieren. In keinem Fall wollen wir für unsere Mitglieder die Abnahme tierischer Produkte verpflichtend machen.
 
-Wir streben an, zu gegebener Zeit verschiedene Formen einer artgerechten Tierhaltung in unsere Landwirtschaft zu integrieren mit dem Ziel, die landwirtschaftliche Produktion zu unterstützen durch Dünger und Beweidung. Dies betrachten wir auch als einen Bestandteil unserer Bildungsarbeit. 
-
-Wir haben das Ziel, jeglichen in unserer Landwirtschaft eingesetzten Dünger vor Ort zu produzieren, sei es durch tierische Ausscheidungen, sei es durch Gründüngung und Kompost.
+Wir streben an, zu gegebener Zeit verschiedene Formen einer artgerechten Tierhaltung in unsere Landwirtschaft zu integrieren mit dem Ziel, die landwirtschaftliche Produktion zu unterstützen.  Neben tierischen Produkten wie Fleisch, Eier etc. tragen die Tiere auch zur Landschaftspflege bei und haben weitere nützliche Funktionen im Agrarökosystem. Tiere sind für den Gemüsebau wichtig, weil sie einen großen Beitrag zur Bodenfruchtbarkeit leisten. Sie können Erntereste verwerten und in wichtigen organischen Dünger (Mist) umsetzen. Durch den Umsatz von hofeigenem und zugekauftem Futter tragen sie maßgeblich zu einer ausgeglichenen Hoftorbilanz bei. Auch deshalb streben wir eine, der Flächengröße angepasste, vielfältige Tierhaltung an.
 
 Wir werden mit jeder konkreten Form der Tierhaltung nur beginnen, wenn wir eine schonende Schlachtung der Tiere außerhalb großer Schlachthöfe sicherstellen können.
-
-Die Verwertung der auf unserem Hof gehaltenen Tiere in Form ihrer Produkte (Eier, Milch, Wolle,...) und ihres Fleisches halten wir uns als Option offen, ohne darüber jetzt schon zu entscheiden. In keinem Fall wollen wir für unsere Mitglieder die Abnahme tierischer Produkte verpflichtend machen.
 
 Wann immer wir uns mit einem konkreten Projekt der Einbeziehung von Tieren befassen, wollen wir dies nicht auf Basis einer für alle verbindlichen Ernährungslehre tun, sondern auf Basis konkreter Bedürfnisse unserer Mitglieder und unserer gemeinsamen Landwirtschaft. Dabei werden neben praktischen Fragen auch die Finanzierung der jeweiligen Tierhaltung zu klären sein.
 
@@ -119,7 +113,7 @@ Wann immer wir uns mit einem konkreten Projekt der Einbeziehung von Tieren befas
 
 ## Interne Arbeits- und Entscheidungsstrukturen
 
-Wir sind als Verein organisiert. Unsere Orga Struktur ist allerdings an der, einer Genossenschaft orientiert. Das oberste Gremium ist die Mitgliederversammlung. Sie entscheidet über Satzungsänderungen und Grundsatzentscheidungen. Im laufenden Geschäft entscheidet der Vorstand im Rahmen der Satzung. Der Vorstand wird von einem Beirat unterstützt. Die Koko (Kooperativen Koordination) ist das Gremium aller Angestellten des Vereins und Koordiniert die verschiedenen Teams. Hier ein Überblick über unsere Teams: 
+Wir sind als Verein organisiert. Unsere Orga Struktur ist allerdings an einer Genossenschaft orientiert. Das oberste Gremium ist die Mitgliederversammlung. Sie entscheidet über Satzungsänderungen und Grundsatzentscheidungen. Im laufenden Geschäft entscheidet der Vorstand im Rahmen der Satzung. Der Vorstand wird von einem Beirat unterstützt. Die Koko (Kooperativen Koordination) ist das Gremium aller Angestellten des Vereins und Koordiniert die verschiedenen Teams. Hier ein Überblick über unsere Teams: 
 
 - das **Anbau-Team**, das alle in unserer Landwirtschaft tätigen Mitarbeiter\*innen umfasst,
 - das **Support-Team**, das die Arbeit des Anbau-Teams unterstützt in den Bereichen Logistik (= Verteilung der Produkte), Buchhaltung, Mitgliederverwaltung und –Information, Organisation der ehrenamtlichen Arbeit,
@@ -130,20 +124,17 @@ Hier eine Übersicht, wie unsere Orga-Struktur aufgebaut ist:
 
 <div class="center-figure">
   <img alt="Koop Organigram" loading="lazy" width="600px" height="418px"
-   src="/assets/images/konzept_solawi/Struktur-der-Koop.png" />
+   src="assets/images/konzept_solawi/Organigramm.jpg" />
 </div>
 
-Zwischen den Mitgliederversammlungen (die mindestens zweijährlich, ansonsten nach Bedarf tagen) ist das Orga-Team das einzige Entscheidungsgremium. Darüber hinaus erhalten Anbau-Team, Support-Team und ggf. auch Arbeitsgruppen Kompetenzen arbeitsteilig zugesprochen, in deren Rahmen sie eigenständig handeln können.
+Und hier die einzelnen Teams und Gremien:
 
-Entscheidungen fällen wir in allen Gremien im Konsens. Konsens bedeutet, vor allem bei wichtigen Fragen, einen längeren Prozess des gegenseitigen Verstehens und Diskutierens. Konsens bedeutet nicht, dass immer jede\*r mit allem zu 100 % einverstanden ist. Konsens bzw Konsent heißt vielmehr, dass kein Veto vorliegt. Das Recht auf Veto hat jede\*r.
+<div class="center-figure">
+  <img alt="Koop Organigram" loading="lazy" width="600px" height="418px"
+   src="assets/images/konzept_solawi/Orga Struktur.jpg" />
+</div>
 
-Konsensieren schließt ein, dass wir eine auf Vertrauen basierte Arbeitsteilung praktizieren. Nicht jede\*r muss zu jedem Punkt Bescheid wissen und entscheiden. In Situationen mit Zeitdruck kann das Konsensieren auch für bestimmte Entscheidungen außer Kraft gesetzt werden und durch Mehrheitsentscheide ersetzt werden. Die Entscheidung, das Konsensverfahren zeitweilig außer Kraft zu setzen, wird im Konsens gefällt.
-
-Wenn die Geduld der Gruppe am Ende ist, wenn auch nach hartnäckigen Bemühungen ein Konsens nicht zu erreichen ist, wenn Gegensätze – aus welchen Gründen auch immer – nicht auflösbar erscheinen (z.B. bei zentralen Fragen der Tierhaltung): Dann streben wir eine Trennung von Einzelnen oder Untergruppen an, im Konsens.
-
-Eine Ausnahme vom Konsens gibt es in dem Fall, wo ein Trennungsprozess zwischen der Gruppe und einer Person nicht anders zu lösen ist als durch Ausschluss (was wir natürlich zu vermeiden suchen). Dann (und nur dann) gilt Konsens-minus-1.
-
-Wir legen großen Wert auf die Transparenz unseres Tuns, daher sind alle Protokolle von Treffen, Finanzpläne und andere Betriebsdaten für alle Mitglieder und Mitarbeiter\*innen jederzeit durch Anfrage zugänglich. Außerdem setzen wir uns zum Ziel, alle wichtigen Regeln und Absprachen für jede\*n sichtbar zu machen, unabhängig davon, ob sie/er an ihrer Entstehung beteiligt war. Regeln, die wir uns einmal gesetzt haben, haben nur dann Bestand, wenn sie praktisch gelebt werden. Ansonsten hat sich ihre Gültigkeit überlebt. Ebenso können Regeln durch neue Beschlüsse geändert oder ganz aufgehoben werden.
+Wir haben für unsere Teams Supervision und falls es Konflikte gibt eine Mediation, das ist uns wichtig und hilft uns dabei, als unterschiedliche Menschen so einen komplexen Job gemeinsam mit Freude zu machen. Klare Zuständigkeiten und eine gute gemeinsame Kultur helfen uns dabei. 
 
 
 
@@ -158,24 +149,16 @@ Die Absicherung der Angestellten durch BG, Rente und Sozialabgaben wird sicherge
 
 ## Unsere Philosophie / unsere Werte
 
-Wir haben ein Bild vom Menschen und vom Zusammenleben zwischen Menschen, das – anstatt durch Konkurrenz – durch aktive Suche nach gemeinsamen Lösungen geprägt ist. Jede*r einzelne mit ihren/seinen Bedürfnissen ist uns wichtig. Unser Ziel ist es, alle Mitglieder der Gruppe mit ihren Bedürfnissen einzubeziehen.
+Wir haben ein Bild vom Menschen und vom Zusammenleben zwischen Menschen, das – anstatt durch Konkurrenz – durch aktive Suche nach gemeinsamen Lösungen geprägt ist. 
 
-Dies führt auf der Ebene der Entscheidungsstrukturen zur Wahl des Konsensierens als verbindliche Form. Konsensieren versucht zunächst einmal, alle geäußerten Anliegen und Lösungsvorschläge zu verstehen und die dahinter liegenden Bedürfnisse zu begreifen. In einem offenen Kommunikationsprozess wird eine Lösung gesucht, die dazu führt, dass alle mit einer höchstmöglichen Zufriedenheit aus dem Prozess hervorgehen.
+Im Betrieb haben wir eine mehrstufige Organisationsstruktur, mit Arbeitsteilung und Delegation vieler Entscheidungen zum einen an diejenigen Aktiven, die faktisch die Arbeit durch ihre Zeit und ihren Einsatz tragen, und zum anderen an die Menschen mit Kompetenz und Erfahrung in der jeweiligen Aufgabe.
 
-Jedes Bedürfnis ist gleich wichtig. Jede*r hat das gleiche Vetorecht.
-
-Hier geht es für jede*n Einzelnen um das Erlernen eines verantwortungsvollen Umgangs mit diesem Recht: Brauche ich das, wofür ich mich stark mache, wirklich? Steckt vielleicht ein ganz anderes Bedürfnis hinter dem, was ich äußere? Wie kann ich mein Bedürfnis und seine Hintergründe so erklären, dass die anderen es wirklich verstehen? Und dann gemeinsam mit mir versuchen, mein Bedürfnis zu integrieren? Ist mir die Erfüllung meines Bedürfnisses so wichtig, dass ich ggf. die gesamte Gruppe in ihrem Entscheidungsprozess aufhalten muss?
-
-Dieses Konsens-Modell versuchen wir derzeit im Orga-Team zu praktizieren. Um es auf die mehrstufige Organisationsstruktur, die wir im produktiven Betrieb anstreben, übertragen zu können, wird es besonders ankommen auf Vertrauen im Rahmen von Arbeitsteilung und Delegation vieler Entscheidungen zum einen an diejenigen Aktiven, die faktisch die Arbeit durch ihre Zeit und ihren Einsatz tragen, und zum anderen an die Menschen mit Kompetenz und Erfahrung in der jeweiligen Aufgabe.
-
-Menschen in verantwortlichen Positionen werden im Konsens bestimmt und sind im Prinzip jederzeit ablösbar. Weiterhin soll jede*r abweichende Meinungen zum Ausdruck bringen können, ohne befürchten zu müssen, z.B. seinen Arbeitsplatz oder die Mitgliedschaft in der Gruppe zu verlieren. Wir sind uns bewusst, dass dies innerhalb der Gruppe nie ganz zu erreichen ist, da Konflikte entstehen können, die nicht anders als durch Ausschluss zu lösen sind.
-
-Die Unterschiedlichkeit der Individuen in ihren Fähigkeiten, Lebenserfahrungen und Überzeugungen ist die Basis für all dies. Unser Ziel ist es, diese Vielfalt zum Blühen zu bringen und aus der Unterschiedlichkeit aller Menschen in der Gruppe zu schöpfen. Solch eine Art des Zusammenseins und Zusammenarbeitens kann nicht nur sehr erfüllend sein, sondern auch hochproduktiv.
+Die Unterschiedlichkeit der Individuen in ihren Fähigkeiten, Lebenserfahrungen und Überzeugungen ist die Basis für unser tun. Unser Ziel ist es, diese Vielfalt zum Blühen zu bringen und aus der Unterschiedlichkeit aller Menschen in der Gruppe zu schöpfen. Solch eine Art des Zusammenseins und Zusammenarbeitens kann nicht nur sehr erfüllend sein, sondern auch hochproduktiv.
 
 
 ## Bildung
 
-Es soll die Möglichkeit geschaffen werden, sich auf dem Betrieb ausbilden zu lassen. Durch Praktika und Führungen sollen Interessierte Einblick in den Betrieb bekommen.
+Wir sind Ausbildungsbetrieb und bilden, in der staatlichen Ausbildung, Gärtner in der Fachrichtung Gemüsebau aus.
 
 Wir wollen das Modell der solidarischen Landwirtschaft aktiv in die Gesellschaft tragen: Schulen, andere Betriebe, Initiativen und Einzelpersonen sollen die Möglichkeit haben, den Betrieb zu besichtigen, um Einblicke in Theorie und Praxis unserer Arbeit zu bekommen.
 
@@ -190,4 +173,4 @@ Moderne Erkenntnisse aus dem Biolandbau und dem Gemüsebau werden in die Produkt
 
 Wir wollen uns trotz Idealismus mit anderen Betrieben messen können, was die Wirtschaftlichkeit anbelangt.
 
-Ein sinnvoller, der Betriebsgröße angepasster Mechanisierungsgrad soll einen möglichst ressourcenschonenden und effektiven Anbau ermöglichen.
+Ein sinnvoller, der Betriebsgröße angepasster Mechanisierungsgrad soll einen möglichst ressourcenschonenden und effizienten Anbau ermöglichen.
