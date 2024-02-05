@@ -125,15 +125,15 @@ Wir sind als Verein organisiert. Unsere Orga Struktur ist allerdings an einer Ge
 Hier eine Übersicht, wie unsere Orga-Struktur aufgebaut ist:
 
 <div class="center-figure">
-  <img alt="Koop Organigram" loading="lazy" width="600px" height="418px"
-   src="assets/images/konzept_solawi/Organigramm.jpg" />
+  <img alt="Organigram" loading="lazy" width="600px" height="418px"
+   src="assets/images/konzept_solawi/Organigramm.jpg"/>
 </div>
 
 Und hier die einzelnen Teams und Gremien:
 
 <div class="center-figure">
   <img alt="Koop Organigram" loading="lazy" width="600px" height="418px"
-   src="assets/images/konzept_solawi/Orga Struktur.jpg" />
+   src="assets/images/konzept_solawi/Orga Struktur.jpg"/>
 </div>
 
 Wir haben für unsere Teams Supervision und falls es Konflikte gibt eine Mediation, das ist uns wichtig und hilft uns dabei, als unterschiedliche Menschen so einen komplexen Job gemeinsam mit Freude zu machen. Klare Zuständigkeiten und eine gute gemeinsame Kultur helfen uns dabei. 
