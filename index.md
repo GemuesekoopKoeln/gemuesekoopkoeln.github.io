@@ -48,9 +48,9 @@ E-Mail Adresse: *Mailchimp*
 
   {% include testimonial.html image="maren-200x200.jpg" text="Die Gemüsekoop ist für mich viel mehr als Gemüse. Wir sind eine Gemeinschaft geworden und schaffen einen Raum, in dem Wertschätzung, Solidarität und Gestaltung erlebt und gelebt werden können." name="Maren" position="Orga-Team" %}
 
-  {% include testimonial.html image="Mitglied-200x200.jpg" text="Es war mein erstes Jahr Solawi und ich finde es super! Neben dem ganzen Projekt gibt es für mich auch ganz klar "egoistische" Vorzüge: Ich schmeisse weniger essen weg, weil das Gemüse einfach frisch ist und viel länger hält. Außerdem ernähre ich mich besser und koche kreativer, was mir sehr viel Spaß macht. Dafür zahle ich gerne den Beitrag. Danke!" name="Maren" position="Mitglied" %}
+  {% include testimonial.html image="Mitglied-200x200.jpg" text="Es war mein erstes Jahr Solawi und ich finde es super! Neben dem ganzen Projekt gibt es für mich auch ganz klar "egoistische" Vorzüge: Ich schmeisse weniger essen weg, weil das Gemüse einfach frisch ist und viel länger hält. Außerdem ernähre ich mich besser und koche kreativer, was mir sehr viel Spaß macht. Dafür zahle ich gerne den Beitrag. Danke!" name="" position="Mitglied" %}
 
-  {% include testimonial.html image="Mitglied-200x200.jpg" text="Es war mein erstes Jahr Solawi und ich finde es super! Neben dem ganzen Projekt gibt es für mich auch ganz klar "egoistische" Vorzüge: Ich schmeisse weniger essen weg, weil das Gemüse einfach frisch ist und viel länger hält. Außerdem ernähre ich mich besser und koche kreativer, was mir sehr viel Spaß macht. Dafür zahle ich gerne den Beitrag. Danke!" name="Maren" position="Mitglied" %}
+  {% include testimonial.html image="Mitglied-200x200.jpg" text="Es war mein erstes Jahr Solawi und ich finde es super! Neben dem ganzen Projekt gibt es für mich auch ganz klar "egoistische" Vorzüge: Ich schmeisse weniger essen weg, weil das Gemüse einfach frisch ist und viel länger hält. Außerdem ernähre ich mich besser und koche kreativer, was mir sehr viel Spaß macht. Dafür zahle ich gerne den Beitrag. Danke!" name="" position="Mitglied" %}
 
   <!-- Next and previous buttons -->
   <button class="prev">&#10094;</button>
