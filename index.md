@@ -6,6 +6,8 @@ slider: true
 
 # Herzlich willkommen bei der Gemüsekoop Köln!
 
+<img alt="Menschen sitzen im Saal" width="740" height="606" src="/assets/images/index/sharepic.jpg"/>
+
 <figure class="wp-block-video">
   <video autoplay="" controls="" loop="" muted="" src="/assets/videos/start_video.mp4" width="100%"></video>
 </figure>
