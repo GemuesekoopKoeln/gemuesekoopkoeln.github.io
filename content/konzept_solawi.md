@@ -103,7 +103,9 @@ Generell ist uns ein verantwortungsvoller Umgang mit Ressourcen wichtig. Wir mö
 
 Wir wollen primär Gemüse produzieren. In keinem Fall wollen wir für unsere Mitglieder die Abnahme tierischer Produkte verpflichtend machen.
 
-Wir streben an, zu gegebener Zeit verschiedene Formen einer artgerechten Tierhaltung in unsere Landwirtschaft zu integrieren mit dem Ziel, die landwirtschaftliche Produktion zu unterstützen.  Neben tierischen Produkten wie Fleisch, Eier etc. tragen die Tiere auch zur Landschaftspflege bei und haben weitere nützliche Funktionen im Agrarökosystem. Tiere sind für den Gemüsebau wichtig, weil sie einen großen Beitrag zur Bodenfruchtbarkeit leisten. Sie können Erntereste verwerten und in wichtigen organischen Dünger (Mist) umsetzen. Durch den Umsatz von hofeigenem und zugekauftem Futter tragen sie maßgeblich zu einer ausgeglichenen Hoftorbilanz bei. Auch deshalb streben wir eine, der Flächengröße angepasste, vielfältige Tierhaltung an.
+Wir streben an, zu gegebener Zeit verschiedene Formen einer artgerechten Tierhaltung in unsere Landwirtschaft zu integrieren mit dem Ziel, die landwirtschaftliche Produktion zu unterstützen.  Neben tierischen Produkten wie Fleisch, Eier etc. tragen die Tiere auch zur Landschaftspflege bei und haben weitere nützliche Funktionen im Agrarökosystem. Tiere sind für den Gemüsebau wichtig, weil sie einen großen Beitrag zur Bodenfruchtbarkeit leisten. Sie können Erntereste verwerten und in wichtigen organischen Dünger (Mist) umsetzen. Durch den Umsatz von hofeigenem und zugekauftem Futter tragen sie maßgeblich zu einer ausgeglichenen Hoftorbilanz bei. 
+
+Auf der aktuellen Fläche wäre die Hühnerhaltung im Mobilstall in Kombination mit Obstbau die naheliegendste Form der Tierhaltung. (Stand 2024)
 
 Wir werden mit jeder konkreten Form der Tierhaltung nur beginnen, wenn wir eine schonende Schlachtung der Tiere außerhalb großer Schlachthöfe sicherstellen können.
 
