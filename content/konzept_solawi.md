@@ -115,7 +115,7 @@ Wann immer wir uns mit einem konkreten Projekt der Einbeziehung von Tieren befas
 
 ## Interne Arbeits- und Entscheidungsstrukturen
 
-Wir sind als Verein organisiert. Unsere Orga Struktur ist allerdings an einer Genossenschaft orientiert. Das oberste Gremium ist die Mitgliederversammlung. Sie entscheidet über Satzungsänderungen und Grundsatzentscheidungen. Im laufenden Geschäft entscheidet der Vorstand im Rahmen der Satzung. Der Vorstand wird von einem Beirat unterstützt. Die Koko (Kooperativen Koordination) ist das Gremium aller Angestellten des Vereins und Koordiniert die verschiedenen Teams. Hier ein Überblick über unsere Teams: 
+Wir sind als Verein organisiert. Unsere Orga Struktur ist allerdings an einer Genossenschaft orientiert. Das oberste Gremium ist die Mitgliederversammlung. Sie entscheidet über Satzungsänderungen und Grundsatzentscheidungen. Im laufenden Geschäft entscheidet der Vorstand im Rahmen der Satzung. Der Vorstand wird von einem Beirat unterstützt. Die Koko (Kooperativen Koordination) ist das Gremium aller Angestellten des Vereins und koordiniert die verschiedenen Teams. Hier ein Überblick über unsere Teams: 
 
 - das **Anbau-Team**, das alle in unserer Landwirtschaft tätigen Mitarbeiter\*innen umfasst,
 - das **Support-Team**, das die Arbeit des Anbau-Teams unterstützt in den Bereichen Logistik (= Verteilung der Produkte), Buchhaltung, Mitgliederverwaltung und –Information, Organisation der ehrenamtlichen Arbeit,
