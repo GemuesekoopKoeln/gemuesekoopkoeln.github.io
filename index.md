@@ -6,7 +6,7 @@ slider: true
 
 # Herzlich willkommen bei der Gemüsekoop Köln!
 
-<img alt="Sharepic" width="740" height="606" src="/assets/images/sharepic_aktuell.png"/>
+<img alt="Sharepic" width="740" height="606" src="/assets/images/Sharepic_aktuell.png"/>
 
 <figure class="wp-block-video">
   <video autoplay="" controls="" loop="" muted="" src="/assets/videos/start_video.mp4" width="100%"></video>
