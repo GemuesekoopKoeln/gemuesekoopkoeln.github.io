@@ -27,7 +27,7 @@ erhalten und bedürfnisorientiert zu wirtschaften.
 
 Das Modell stammt ursprünglich aus Japan, ist aber auch in den USA und im 
 europäischen Raum insbesondere in Frankreich verbreitet. In Deutschland 
-gibt es derzeit etwa 200 Solawi-Höfe und viele weitere Initiativen in 
+gibt es derzeit etwa 400 Solawi-Höfe und viele weitere Initiativen in 
 Gründung.
 
 Der persönliche Bezug macht die gegenseitige Verantwortung bewusst. Die 
@@ -68,18 +68,16 @@ Bei der Beitragsrunde, einer für Mitglieder verpflichtenden Veranstaltung, biet
 
 Alle planbaren Ausgaben (Inventar, Maschinen, Ausbau der Wirtschaftsräume), die einmalig im Sinne einer Investition anfallen, sollen über eine Einlage gedeckt werden, die jedes Mitglied beim Eintritt in die Gemüsekoop beiträgt. Diese Einlage ist als “Kredit” zu verstehen, welche dem Mitglied beim Verlassen der Koop wieder ausgezahlt wird, insofern ein neues Mitglied dafür nachkommt und/oder der Gemüsekoop e.V. liquide genug ist, die Einlage zurückzuzahlen. Hat ein Mitglied Schwierigkeiten, die Investitionseinlage aufzubringen, kann gemeinsam eine Lösung gefunden werden.
 
-Zusätzlich sollen Stiftungsgelder und Fördermittel eingeworben werden.
-
 Spezielle Betriebsbereiche, wie z.B. Lastenräder für die Verteilung der Lebensmittel, eine Küche zum Einmachen oder eine Backstube, könnten durch Crowdfunding-Kampagnen finanziert werden.
 
 
 ## Gemeinschaft
 
-Mitarbeit der Mitglieder im Betrieb ist erwünscht! Es soll unter anderem die Verteilung der Lebensmittel von den Mitgliedern organisiert und durchgeführt werden. Bei größeren Projekten wie z.B. Aufbau eines Folientunnels kommen viele Mitglieder zusammen und es wird in der Gemeinschaft gearbeitet.
+Die Mitglieder sind auf ihrem Hof willkommen und können mithelfen und Einblicke in den Gemüse und Obstbau bekommen. Besonders die Erntetage mit dem gemeinsamen Frühstück sind ein Higlight. Bei Aktionstagen und größeren Projekten wie z.B. Aufbau eines Folientunnels kommen viele Mitglieder zusammen und es wird in der Gemeinschaft gearbeitet. Für eigene Projekte können AGs gegründet werden, die den Hof nutzen und auch von der Koop finanziell unterstützt werden können. 
 
-Die Mitglieder organisieren sich in den Stadtvierteln, so kann eine Gemeinschaft aufgebaut werden, in der man sich unterstützt und gemeinsame Projekte verwirklichen kann.
+Die Depots sind von den Mitgliedern selbst organisiert. Neben dem Gemüse abholen, soll auch mal saubergemacht werden und bei manchen Depots gibt es Depot-Dienste. Ziel ist auch, dass die Mitglieder sich in den Stadtvierteln organisieren, so kann eine Gemeinschaft aufgebaut werden, in der man sich unterstützt und gemeinsame Projekte verwirklichen kann.
 
-Die ehrenamtliche Mitarbeit findet auf freiwilliger Basis statt.
+Die ehrenamtliche Mitarbeit findet auf freiwilliger Basis statt, jede*r bringt sich ein, wie es gerade passt.
 
 
 ## Ökologisch produzieren
@@ -90,7 +88,7 @@ Wir streben eine Kreislaufwirtschaft im Betrieb an. Es gibt die so genannte Hoft
 
 Mit dem Gemüse verlassen den Hof permanent Nährstoffe, die vorher im Boden waren. Um möglichst wenig Dünger von Außen zukaufen zu müssen, gibt es verschiedene Methoden, die Bodenfruchtbarkeit langfristig zu erhalten und zu steigern. Mit Kompost, Gründüngung, Mist oder Mulchen wollen wir Nährstoffe im Boden halten und aktiven Humusaufbau betreiben. Dadurch wird CO2 im Boden gebunden, was sich positiv auf das Klima auswirkt.
 
-Wir legen Wert auf Blühstreifen, Imkerei, Feuchtbiotope und achten auf umweltverträgliche Anbaumethoden. Damit fördern wir die Artenvielfalt in unserem Agrarökosystem. Eine hohe Artenvielfalt und viele Sorten und Kulturen reduzieren das Risiko von Ernteausfällen.
+Wir legen Wert auf Blühstreifen, Imkerei, Feuchtbiotope und achten auf umweltverträgliche Anbaumethoden. Damit fördern wir die Artenvielfalt in unserem Agrarökosystem. Eine hohe Artenvielfalt und viele Sorten und Kulturen reduzieren auch das Risiko von Ernteausfällen.
 
 Ein langfristiges Ziel ist es, standortangepasste Sorten anzubauen und ggf. züchterisch weiter zu entwickeln. Damit wir die Möglichkeit haben, Pflanzen aus dem eigenen Saatgut wieder nachzubauen, möchten wir einen möglichst hohen Anteil an samenfesten Sorten im Anbau verwenden und eine eigene Jungpflanzenaufzucht aufbauen. Dies wäre ein wichtiger Schritt in Richtung Unabhängigkeit und Ernährungssouveränität.
 
@@ -100,14 +98,14 @@ Wir überlegen noch, ob wir einem Bio-Anbauverband beitreten möchten. Bei Biola
 
 Wir wollen unsere Produktionsmittel auf kurzen Wegen aus der Region beziehen und damit ein Netzwerk aus kooperierenden Betrieben aufbauen. Das könnte z.B. eine Futter-Mist-Kooperation mit einem benachbarten Bio-Bauer oder eine gemeinsame Jungpflanzenaufzucht mehrerer Betriebe sein.
 
-Generell ist uns ein verantwortungsvoller Umgang mit Ressourcen wichtig. Wir möchten auf Dauer weg von fossilen hin zu regenerativen Energiequellen. An sinnvollen Stellen möchten wir Wind- und Solarenergie einsetzen und mögliche Synergieeffekte nutzen, wie z.B. die Abwärme des Kühlhauses für die Beheizung des Jungpflanzengewächshauses.
+Generell ist uns ein verantwortungsvoller Umgang mit Ressourcen wichtig. Wir möchten auf Dauer weg von fossilen hin zu regenerativen Energiequellen. Wir nutzen Solarstrom von den Solarzellen auf der Halle. Wenn möglich möchten wir Synergieeffekte nutzen, wie z.B. die Abwärme eines Kühlhauses für die Beheizung des Jungpflanzengewächshauses.
 
 
 ## Tierhaltung
 
-Wir wollen primär Gemüse produzieren.
+Wir wollen primär Gemüse produzieren. Perspektivisch wäre es schön, unsere Mitglieder auch noch mit Obst und z.B. Eiern versorgen zu können.
 
-Wir streben an, zu gegebener Zeit verschiedene Formen einer artgerechten Tierhaltung in unsere Landwirtschaft zu integrieren mit dem Ziel, die landwirtschaftliche Produktion zu unterstützen durch Dünger und Beweidung. Dies betrachten wir auch als einen Bestandteil unserer Bildungsarbeit.
+Wir streben an, zu gegebener Zeit verschiedene Formen einer artgerechten Tierhaltung in unsere Landwirtschaft zu integrieren mit dem Ziel, die landwirtschaftliche Produktion zu unterstützen durch Dünger und Beweidung. Dies betrachten wir auch als einen Bestandteil unserer Bildungsarbeit. 
 
 Wir haben das Ziel, jeglichen in unserer Landwirtschaft eingesetzten Dünger vor Ort zu produzieren, sei es durch tierische Ausscheidungen, sei es durch Gründüngung und Kompost.
 
@@ -121,12 +119,12 @@ Wann immer wir uns mit einem konkreten Projekt der Einbeziehung von Tieren befas
 
 ## Interne Arbeits- und Entscheidungsstrukturen
 
-Wie soll unsere Praxis aussehen, wenn wir mit der produktiven Landwirtschaft begonnen haben? Unser oberstes Entscheidungsgremium wird die Versammlung aller Mitglieder des Vereins. Die vielen Entscheidungen der täglichen Arbeit auf dem Hof wollen wir auf Basis der Grundsatzentscheidungen aller Mitglieder an folgende Gremien delegieren:
+Wir sind als Verein organisiert. Unsere Orga Struktur ist allerdings an der, einer Genossenschaft orientiert. Das oberste Gremium ist die Mitgliederversammlung. Sie entscheidet über Satzungsänderungen und Grundsatzentscheidungen. Im laufenden Geschäft entscheidet der Vorstand im Rahmen der Satzung. Der Vorstand wird von einem Beirat unterstützt. Die Koko (Kooperativen Koordination) ist das Gremium aller Angestellten des Vereins und Koordiniert die verschiedenen Teams. Hier ein Überblick über unsere Teams: 
 
 - das **Anbau-Team**, das alle in unserer Landwirtschaft tätigen Mitarbeiter\*innen umfasst,
 - das **Support-Team**, das die Arbeit des Anbau-Teams unterstützt in den Bereichen Logistik (= Verteilung der Produkte), Buchhaltung, Mitgliederverwaltung und –Information, Organisation der ehrenamtlichen Arbeit,
-- das **Orga-Team**, das in kurzen Abständen (mindestens 14tägig) Vertreter des Anbau-Teams, des Support-Teams sowie aktive Vereinsmitglieder zusammenbringt,
-- **Arbeitsgruppen** zu speziellen Themen (z.B. neue Anbauformen wie Permakultur oder Projekte wie Brotbacken).
+- der **Beirat**, der dem Vorstand bei kniffligen Fragen beratend zur Seite steht.
+- **Arbeitsgruppen** zu speziellen Themen (z.B. Imkerei, Einkaufs AG).
 
 Hier eine Übersicht, wie unsere Orga-Struktur aufgebaut ist:
 
