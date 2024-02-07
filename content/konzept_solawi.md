@@ -75,7 +75,7 @@ Spezielle Betriebsbereiche, wie z.B. Lastenräder für die Verteilung der Lebens
 
 Die Mitglieder sind auf ihrem Hof willkommen und können mithelfen und Einblicke in den Gemüse- und Obstbau bekommen. Besonders die Ernte-Tage mit dem gemeinsamen Frühstück sind ein Higlight. Bei Aktionstagen und größeren Projekten wie z.B. Aufbau eines Folientunnels kommen viele Mitglieder zusammen und es wird in der Gemeinschaft gearbeitet. Für eigene Projekte können AGs gegründet werden, die den Hof als Plattform nutzen und auch von der Koop finanziell unterstützt werden können. 
 
-Die Depots in den Stadtvierteln sind von den Mitgliedern selbst organisiert. Dazu gibt es einen Depot Reader mit Tipps. Bei größeren Problemen springen wir vom Hof ein. In vielen Depots gibt es einen Depotdienst, welcher am Ende der Abholung das Depot saubermacht und sich dafür die Überschüsse Mitnehmen darf. Ziel ist auch, dass die Mitglieder sich in den Stadtvierteln organisieren, so kann eine Gemeinschaft aufgebaut werden, in der man sich unterstützt und gemeinsame Projekte verwirklichen kann.
+Die Depots in den Stadtvierteln sind von den Mitgliedern selbst organisiert. Dazu gibt es einen Depot Reader mit Tipps. Bei größeren Problemen springen wir vom Hof ein. In vielen Depots gibt es einen Depotdienst, welcher am Ende der Abholung das Depot saubermacht und sich dafür die Überschüsse mitnehmen darf. Ziel ist auch, dass die Mitglieder sich in den Stadtvierteln organisieren, so kann eine Gemeinschaft aufgebaut werden, in der man sich unterstützt und gemeinsame Projekte verwirklichen kann.
 
 Die ehrenamtliche Mitarbeit findet auf freiwilliger Basis statt, jede*r bringt sich ein, wie es gerade passt.
 
