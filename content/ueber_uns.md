@@ -125,6 +125,6 @@ Die Gemüsekoop hat derzeit über 300 Haushalte, die sich in verschiedenen Stadt
 * Lövenich - Kölner Westen am Hof: Widdersdorfer Landstraße 103, 50859 Köln
 
 
-<iframe width="100%" loading="lazy" height="450" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=6.826535761356355%2C50.95548355451079%2C6.82915359735489%2C50.95717818023661&amp;layer=mapnik" style="border: 1px solid black"></iframe>
-<small><a href="https://www.openstreetmap.org/#map=19/50.95633/6.82784">View Larger Map</a></small>
+<!--iframe width="100%" loading="lazy" height="450" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=6.826535761356355%2C50.95548355451079%2C6.82915359735489%2C50.95717818023661&amp;layer=mapnik" style="border: 1px solid black"></iframe>
+<small><a href="https://www.openstreetmap.org/#map=19/50.95633/6.82784">View Larger Map</a></small-->
 
