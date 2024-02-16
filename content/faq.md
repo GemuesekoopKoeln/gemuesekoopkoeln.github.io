@@ -31,44 +31,44 @@ permalink: /faq
         </tr>
         <tr>
             <td>Möhre/Rote Bete oder Sellerie ca. 1 kg</td>
-            <td>Gurke 1-2 stk.</td>
+            <td>Gurke 1-2 Stk.</td>
             <td>Gurke 1-2 kg</td>
-            <td>Rot- oder Weißkohl 1 stk.</td>
+            <td>Rot- oder Weißkohl 1 Stk.</td>
         </tr>
         <tr>
             <td>Zwiebeln oder Porree ca. 1 kg</td>
-            <td>Zucchini 1-2 stk.</td>
-            <td>Zucchini 1-2 stk.</td>
+            <td>Zucchini 1-2 Stk.</td>
+            <td>Zucchini 1-2 Stk.</td>
             <td>Endiviensalat o. Raddicchio 1 Stk.</td>
         </tr>
         <tr>
             <td>Mangold 500g</td>
-            <td>Große Gemüsezwiebel 1-2 stk.</td>
+            <td>Große Gemüsezwiebel 1-2 Stk.</td>
             <td>Tomate 1- 1,5 kg </td>
             <td>Möhre/Rote Bete oder Sellerie ca. 1 kg</td>
         </tr>
         <tr>
             <td>2 verschiedene Schnittsalate 150-200 gr</td>
-            <td>Knoblauchknollen 1-2 stk.</td>
+            <td>Knoblauchknollen 1-2 Stk.</td>
             <td>Mangold 600g</td>
             <td>Zwiebeln oder Porree ca. 1 kg</td>
         </tr>
         <tr>
             <td>Grünkohl oder Radischen ca. 300g</td>
-            <td>Spitzkohl 1 stk.</td>
-            <td>Paprika 2-4 stk.</td>
+            <td>Spitzkohl 1 Stk.</td>
+            <td>Paprika 2-4 Stk.</td>
             <td>Petersilie o. Koriander 1 Bündchen </td>
         </tr>
         <tr>
             <td></td>
-            <td>Salatkopf 1 stk.</td>
+            <td>Salatkopf 1 Stk.</td>
             <td>Stangensellerie 300g</td>
             <td></td>
         </tr>
         <tr>
             <td></td>
             <td>Bunte Beete o. Möhren 0,5 kg</td>
-            <td>Salatkopf 1 stk.</td>
+            <td>Salatkopf 1 Stk.</td>
             <td></td>
         </tr>
     </table>
