@@ -38,8 +38,7 @@ E-Mail Adresse: *Mailchimp*
 ## Unsere Mitglieder sprechen
 
 <div id="testimonial" class="slideshow-container">
-  {% include testimonial.html image="fabian-200x200.jpg" text="Die Gemüsekoop ermöglicht uns lokales und regionales Gemüse zu beziehen. Die solidarische Preisgestaltung und die guten Arbeitsbedingungen sind mir dabei besonders wichtig." name="Fabian" position="Mitglied" %}
-
+ 
   {% include testimonial.html image="raphael-200x200.jpg" text="Eine zukunftsfähige Form der Landwirtschaft machen, täglich draußen an der frischen Luft sein, Ideen umsetzen können und dass mit einem Tollen Team und guten Arbeitsbedingungen. Danke an Alle, die das möglich machen!" name="Raphael" position="Anbau-Team " %}
   
   {% include testimonial.html image="leon-200x200.jpg" text="Für mich ist die Koop eine Gemeinschaft gelebten gesellschaftlichen Wandels in eine nachhaltige, solidarische und humanistische Welt verbunden mit einer Menge Spaß und Liebe!" name="Leon" position="Fahrer und Logistik " %}
