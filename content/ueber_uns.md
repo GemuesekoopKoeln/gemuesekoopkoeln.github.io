@@ -59,6 +59,10 @@ Hallo, wir sind das Supportteam der Gemüsekoop. Wir sind für die Arbeit “hin
 
 Aktuell teilen wir die Arbeit unter vier Mitgliedern auf. Zu unseren Aufgaben gehört die Kontobetreuung und Finanzverwaltung, wir machen die Mitgliederorganisation inklusive Mail-Kommunikation und Depot-Organisation. Auch die Versicherungen, die Steuererklärung der Koop, sowie die Berufsgenossenschaft fallen in unseren Bereich. Es ist manchmal ganz schön viel, doch nie langweilig. Wir stecken zwischen den Zeilen, vermitteln zwischen Mitgliedern und Anbauteam, haben hier ein Ohr und da eine Hand frei. Es macht viel Spaß! Wenn Du Lust hast, bei uns mitzuarbeiten, melde dich gerne unter [support(at)gemuesekoop.de](mailto:support(at)gemuesekoop.de) – wir freuen uns auf dich!
 
+## Beirat
+
+Hallo, wir sind der Beirat der Gemüsekoop. Wir unterstützen den Vorstand bei kniffligen Fragen. Zum Beispiel haben wir ein transparentes Lohnkonzept für die Kooperative erarbeitet. Ansonsten behält Angela die Finanzen im Blick und Jochen und Christoph kümmern sich Abseits der Arbeit im Beirat um die Bienen, welche am Hof zuhause sind. 
+
 ## Arbeitsgruppen
 
 Unsere Mitglieder organisieren sich in Arbeitsgruppen und sind auch über die reine Solawi-Arbeit hinaus vernetzt.
