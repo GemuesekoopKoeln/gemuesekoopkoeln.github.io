@@ -4,7 +4,7 @@ title: Hallo
 slider: true
 ---
 
-# Herzlich willkommen bei der Gemüsekoop Köln!
+<div style="text-align:center"> Herzlich willkommen bei der Gemüsekoop Köln!
 
 <span style="font-size:360%;"><b>Wir haben noch Anteile frei!</b></span>
 
