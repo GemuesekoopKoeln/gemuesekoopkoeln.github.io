@@ -1,4 +1,5 @@
 (function(){
+  const switchFrequency = 8*1000;
   function animate_slideshow(containerID) {
     let slideIndex = 0;
     let ticked = false;
@@ -75,7 +76,7 @@
         }
         run();
         ticked = false;
-      }, 5*1000);
+      }, switchFrequency);
     }
   }
 
