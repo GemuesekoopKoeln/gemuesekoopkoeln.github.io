@@ -6,7 +6,21 @@ slider: true
 
 # Herzlich willkommen bei der Gemüsekoop Köln!
 
-<img alt="Sharepic" width="606" height="606" src="/assets/images/Sharepic-no-logo.jpg"/>
+<span style="font-size:360%;"><b>Wir haben noch Anteile frei!</b></span>
+
+<div style="font-size:230%; text-align:center;line-height: 40px;margin-bottom: 30px;">
+	<span> Du hast Lust Mitglied einer <em style="color:#24b119;font-style:normal;">solidarischen 
+	Landwirtschaft</em> zu sein und über deinen Anteil
+	<em style="color:#FFC300;font-style:normal;">biologisch, saisonales und regionales Gemüse 
+	und/oder Obst</em> zu beziehen?</span>
+	
+</div>
+<div style="font-size:200%; text-align:center;margin-bottom: 30px;">
+	<p>Dann melde dich bei uns!</p>
+</div>
+<div style="font-size:200%; text-align:center;margin-bottom: 30px;">
+	<p><b>Kontakt:</b> <a href="mailto:support@gemuesekoop.de">support@gemuesekoop.de</a></p>
+</div>
 
 <figure class="wp-block-video">
 	<iframe width="100%" height="418" src="https://www.youtube-nocookie.com/embed/V7OTIQrQJYw?si=3i7bhUMTJq1ySnKE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
