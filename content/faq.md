@@ -73,8 +73,8 @@ permalink: /faq
         </tr>
     </table>
 
-      Hier aber schonmal als “Vorgeschmack” ein Foto von kleinen Anteil im Mai und September 2020.
-      <img alt="Lager" loading="lazy" src="/assets/images/faq/lager.jpg" width="100%">
+      Hier aber schonmal als “Vorgeschmack” Fotos von unseren kleinen und großen Anteilen im Mai und September 2020.
+      <img alt="Lager" loading="lazy" src="assets/images/faq/Anteil klein mai.jpeg" width="100%">
     </p>
   </details>
   <details>
