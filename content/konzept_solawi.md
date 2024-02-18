@@ -136,7 +136,7 @@ Und hier die einzelnen Teams und Gremien:
    src="assets/images/konzept_solawi/Orga Struktur.jpg" />
 </div>
 
-Wir haben für unsere Teams Supervision und falls es Konflikte gibt eine Mediation. Das ist uns wichtig und unterstützt uns dabei als Team gut zusammenzuarbeiten. Wir haben klare Zuständigkeiten und eine leben eine gute gemeinsame Kultur im Betrieb. 
+Wir haben für unsere Teams Supervision und falls es Konflikte gibt eine Mediation. Das ist uns wichtig und unterstützt uns dabei als Team gut zusammenzuarbeiten. Wir haben klare Zuständigkeiten und leben eine gute gemeinsame Kultur im Betrieb. 
 
 
 ## Unsere Arbeitnehmer\*innen
