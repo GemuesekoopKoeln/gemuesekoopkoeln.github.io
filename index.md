@@ -6,10 +6,10 @@ slider: true
 
 # Herzlich willkommen bei der Gemüsekoop Köln!
 
-<img alt="Sharepic" width="606" height="606" src="/assets/images/sharepic_website.jpg"/>
+<img alt="Sharepic" width="606" height="606" src="/assets/images/Sharepic-no-logo.jpg"/>
 
 <figure class="wp-block-video">
-  <video autoplay="" controls="" loop="" muted="" src="/assets/videos/Intro.mp4" width="100%"></video>
+	<iframe width="100%" height="418" src="https://www.youtube-nocookie.com/embed/V7OTIQrQJYw?si=3i7bhUMTJq1ySnKE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </figure>
 
 Auf 2,4ha gepachteter Fläche im Kölner Westen, zwischen Lövenich und Widdersdorf, bauen wir seit dem Frühjahr 2017 für uns und unsere Mitglieder über **45 Sorten Gemüse** an – **unverpackt**, **regional**, **saisonal** und **ökologisch**! Unsere Ernte liefern wir einmal wöchentlich ins Kölner Stadtgebiet, in unsere Stadtteildepots, wo sie von den derzeit **300 Haushalten** der Gemüsekoop abgeholt wird. Parallel dazu sind wir mit Aufbau und Entwicklung unseres Betriebes beschäftigt. Seit diesem Jahr gibt es einen Obst Anteil mit Äpfeln und Birnen von der Streuobstwiese eines Mitglieds. Parallel dazu pflanzen wir Bäume auf unserem Acker und steigen selbst in den Obstbau ein.
