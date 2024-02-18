@@ -72,9 +72,17 @@ permalink: /faq
             <td></td>
         </tr>
     </table>
-
-      Hier aber schonmal als “Vorgeschmack” Fotos von unseren kleinen und großen Anteilen im Mai und September 2020.
-      <img alt="Lager" loading="lazy" src="assets/images/faq/Anteil klein mai.jpeg" width="100%">
+	<span>
+      <p>Hier aber schonmal als “Vorgeschmack” Fotos von unseren kleinen und großen Anteilen im Mai und September.</p>
+	  Kleiner Anteil im Mai
+      <img alt="Lager" loading="lazy" src="assets/images/faq/mai_kl.jpeg" width="100%">
+	  Großer Anteil im Mai
+  	  <img alt="Lager" loading="lazy" src="assets/images/faq/mai_gr.jpeg" width="100%">
+	  Kleiner Anteil im September
+	  <img alt="Lager" loading="lazy" src="assets/images/faq/sep_kl.jpeg" width="100%">
+	  Großer Anteil im September
+	  <img alt="Lager" loading="lazy" src="assets/images/faq/sep_gr.jpeg" width="100%">
+  </span>
     </p>
   </details>
   <details>
