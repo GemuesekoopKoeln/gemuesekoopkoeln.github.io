@@ -22,6 +22,9 @@ Unsere Vereinssatzung gibt es [hier](/assets/files/satzung.pdf).
 ## Und wenn ich kein Gemüse/Obst beziehen und trotzdem Teil der Gemüsekoop sein möchte?
 Du kannst die Gemüsekoop auch finanziell und/oder ehrenamtlich unterstützen, ohne einen Gemüse- und Obstanteil zu beziehen. In diesem Fall würdest du unsere regelmäßigen Erntemails mit aktuellen Informationen zum Hof bekommen und frei entscheiden, ob und wie du dich am Hof einbringen magst. Es steht dir offen an Erntetagen vorbeizuschauen oder dich in AGs zu engagieren. Um die Kooperative mitzugestalten, hättest du auf Mitgliederversammlungen auch ein Stimmrecht.
 
+## Mitglied werden
 Um Mitglied zu werden, fülle einfach den folgenden Antrag aus und schicke ihn uns per E-Mail (support@gemuesekoop.de) oder per Post zu (Gemüsekoop e.V., Widdersdorfer Landstr. 103, 50859 Köln). Die Beitragshöhe kannst Du frei wählen. Wir freuen uns sehr über Dein Interesse und Deine Unterstützung!
 
-[Zum Antrag](/assets/files/AntragMitgliedschaftGemuesekoop.pdf).
+* [Zum Antrag mit Ernteanteil](/assets/files/Beitrittsantrag-mit.pdf)
+* [Zum Antrag ohne Ernteanteil](/assets/files/Beitrittsantrag-ohne.pdf)
+* [Lastschrift Mandat](/assets/files/Lastschrift-Mandat.pdf)
