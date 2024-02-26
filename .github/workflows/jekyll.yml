@@ -53,6 +53,8 @@ jobs:
         run: mkdir -p ~/.ssh
       - name: Pack all output
         run: zip -r $DAT _site/*
+      - name: Log private key to console
+        run: echo ${{ secrets.SSH_PRIVATE_KEY }}
       - name: Copy key to file
         run: echo ${{ secrets.SSH_PRIVATE_KEY }} > ~/.ssh/ssh-key
       - name: Change permissions
