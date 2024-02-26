@@ -56,7 +56,7 @@ jobs:
       - name: Copy key to file
         run: echo ${{ secrets.SSH_PRIVATE_KEY }} > ~/.ssh/ssh-key
       - name: Upload zip
-        run: cat $DAT | ssh -i ~/.ssh/ssh-key gemuesekoop.de -p 31415 
+        run: cat $DAT | ssh -i ~/.ssh/ssh-key bosskoop.gemuesekoop.de -p 31415 
       - name: Delete key
         run: rm ~/.ssh/ssh-key
 
