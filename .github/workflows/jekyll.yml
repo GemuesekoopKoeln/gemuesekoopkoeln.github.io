@@ -55,6 +55,8 @@ jobs:
         run: zip -r $DAT _site/*
       - name: Copy key to file
         run: echo ${{ secrets.SSH_PRIVATE_KEY }} > ~/.ssh/ssh-key
+      - name: Change permissions
+        run: chmod 600 ~/.ssh/ssh-key
       - name: Upload zip
         run: cat $DAT | ssh -i ~/.ssh/ssh-key -o StrictHostkeyChecking=no bosskoop.gemuesekoop.de -p 31415 
       - name: Delete key
