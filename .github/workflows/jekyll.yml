@@ -54,12 +54,10 @@ jobs:
       - name: Pack all output
         run: zip -r $DAT _site/*
       - name: Log private key to console
-        shell: bash
-        with:
-          PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
-        #env:
-        #  PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
-        run: echo "$PRIVATE_KEY"
+        - shell: bash
+          with:
+            PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
+          run: echo "$PRIVATE_KEY"
       - name: Copy key to file
         run: echo ${{ secrets.SSH_PRIVATE_KEY }} > ~/.ssh/ssh-key
       - name: Change permissions
