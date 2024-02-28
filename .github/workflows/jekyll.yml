@@ -35,10 +35,6 @@ jobs:
           ruby-version: '3.1' # Not needed with a .ruby-version file
           bundler-cache: true # runs 'bundle install' and caches installed gems automatically
           cache-version: 0 # Increment this number if you need to re-download cached gems
-      # Ignore pages again, just build with Jekyll
-      #- name: Setup Pages
-      #  id: pages
-      #  uses: actions/configure-pages@v4
       - name: Install bundle
         run: bundle install
       - name: Build with Jekyll
@@ -47,36 +43,16 @@ jobs:
           JEKYLL_ENV: production
       - name: Create env variable for file name
         env:
-          DAT: koopwebsite-$(date +"%Y-%m-%d_%H-%M").zip
+          DAT: koopwebsite.zip
         run: echo $DAT
       - name: Create ssh folder
         run: mkdir -p ~/.ssh
       - name: Pack all output
         run: zip -r $DAT _site/*
-      - name: Log private key to console
-        - shell: bash
-          with:
-            PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
-          run: echo "$PRIVATE_KEY"
-      - name: Copy key to file
-        run: echo ${{ secrets.SSH_PRIVATE_KEY }} > ~/.ssh/ssh-key
-      - name: Change permissions
-        run: chmod 600 ~/.ssh/ssh-key
-      - name: Test key
-        run: cat ~/.ssh/ssh-key
-      - name: Upload zip
-        run: cat $DAT | ssh -i ~/.ssh/ssh-key -o StrictHostkeyChecking=no bosskoop.gemuesekoop.de -p 31415 
-      - name: Delete key
-        run: rm ~/.ssh/ssh-key
-
-  # Deployment job
-  #deploy:
-  #  environment:
-  #    name: github-pages
-  #    url: ${{ steps.deployment.outputs.page_url }}
-  #  runs-on: ubuntu-latest
-  #  needs: build
-  #  steps:
-  #    - name: Deploy to GitHub Pages
-  #      id: deployment
-  #      uses: actions/deploy-pages@v4
+      - name: Setup SSH agent
+        uses: webfactory/ssh-agent@v0.9.0
+        with:
+          ssh-private-key: ${{ secrets.SSHKEY }}
+      - name: Copy zip-file via SSH
+        run: cat $DAT ssh -o StrictHostkeyChecking=no websitesync@bosskoop.gemuesekoop.de -p 31415 
+        
