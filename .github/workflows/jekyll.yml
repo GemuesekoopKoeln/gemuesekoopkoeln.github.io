@@ -54,5 +54,5 @@ jobs:
         with:
           ssh-private-key: ${{ secrets.SSHKEY }}
       - name: Copy zip-file via SSH
-        run: cat $DAT ssh -o StrictHostkeyChecking=no websitesync@bosskoop.gemuesekoop.de -p 31415 
+        run: cat $DAT | ssh -o StrictHostkeyChecking=no websitesync@bosskoop.gemuesekoop.de -p 31415 
         
