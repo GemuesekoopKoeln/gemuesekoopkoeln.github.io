@@ -45,8 +45,8 @@ jobs:
         run: echo "{DAT}={koopwebsite.zip}" >> "$GITHUB_ENV"
       - name: Pack all output
         run: |
-          echo "$DAT"
-          zip -r "$DAT" _site/*
+          echo ${{ env.DAT }}
+          zip -r ${{ env.DAT }} _site/*
           ls -la
       - name: Setup SSH agent
         uses: webfactory/ssh-agent@v0.9.0
