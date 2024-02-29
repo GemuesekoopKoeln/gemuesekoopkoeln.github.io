@@ -46,7 +46,7 @@ jobs:
       - name: Pack all output
         run: |
           echo ${{ env.DAT }}
-          zip -r ${{ env.DAT }} _site/*
+          zip -r koopwebsite.zip _site/*
           ls -la
       - name: Setup SSH agent
         uses: webfactory/ssh-agent@v0.9.0
