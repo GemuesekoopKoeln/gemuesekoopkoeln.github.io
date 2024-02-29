@@ -47,6 +47,7 @@ jobs:
         run: echo $DAT
       - name: Pack all output
         run: |
+          echo $DAT
           zip -r $DAT _site/*
           ls -la
       - name: Setup SSH agent
