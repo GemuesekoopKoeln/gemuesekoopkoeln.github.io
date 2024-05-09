@@ -51,7 +51,7 @@ Die Gemüsekoop ist ein Zusammenschluss vieler Menschen, die sich in verschieden
 Unser Anbauteam ist in wechselnder Besetzung von Montag bis Freitag an der Hofstelle anzutreffen. Wir kümmern uns in erster Linie um die Pflanzen – von der Aussaat, über Pflanzungen und Pflege bis zur Ernte. An den Erntetagen komissionieren wir das Gemüse und fahren es zu euch in die Depots. Zudem schauen wir nach der Hof-Infrastruktur, wir machen die Flächen- und Anbauplanung, Bodenbearbeitung, säen und pflegen die Gründüngung, bauen Maschinen und lagern das Gemüse. 
 Häufig haben wir Praktikant*innen bei uns und sind generell Ansprechpartner für die vielen Menschen, die aus Interesse an Landwirtschaft und Gemeinschaft zum Hof kommen und uns ehrenamtlich bei der Arbeit unterstützen. 
 
-Wenn Du Lust hast, uns kennenzulernen und mit uns zu arbeiten, melde dich gern bei uns. Wir freuen uns auf Dich!
+Wenn Du Lust hast, uns kennenzulernen und mit uns zu arbeiten, melde dich gerne bei uns. Wir freuen uns auf Dich!
 
 ## Supportteam
 
@@ -61,7 +61,7 @@ Aktuell teilen wir die Arbeit unter vier Mitgliedern auf. Zu unseren Aufgaben ge
 
 ## Beirat
 
-Hallo, wir sind der Beirat der Gemüsekoop. Wir unterstützen den Vorstand bei kniffligen Fragen. Zum Beispiel haben wir ein transparentes Lohnkonzept für die Kooperative erarbeitet. Ansonsten behält Angela die Finanzen im Blick und Jochen und Christoph kümmern sich Abseits der Arbeit im Beirat um die Bienen, welche am Hof zuhause sind. 
+Hallo, wir sind der Beirat der Gemüsekoop. Wir unterstützen den Vorstand bei kniffligen Fragen. Zum Beispiel haben wir ein transparentes Lohnkonzept für die Kooperative erarbeitet. Ansonsten behält Angela die Finanzen im Blick und Jochen und Christoph kümmern sich abseits der Arbeit im Beirat um die Bienen, welche am Hof zuhause sind. 
 
 ## Arbeitsgruppen
 
