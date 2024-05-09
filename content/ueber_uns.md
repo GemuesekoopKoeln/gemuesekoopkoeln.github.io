@@ -57,7 +57,7 @@ Wenn Du Lust hast, uns kennenzulernen und mit uns zu arbeiten, melde dich gern b
 
 Hallo, wir sind das Supportteam der Gemüsekoop. Wir sind für die Arbeit “hinter den Kulissen” zuständig und sorgen für die gesamte Organisation und Verwaltung der Kooperative.
 
-Aktuell teilen wir die Arbeit unter vier Mitgliedern auf. Zu unseren Aufgaben gehört die Kontobetreuung und Finanzverwaltung, wir machen die Mitgliederorganisation inklusive Mail-Kommunikation und Depot-Organisation. Auch die Versicherungen, die Steuererklärung der Koop, sowie die Berufsgenossenschaft fallen in unseren Bereich. Es ist manchmal ganz schön viel, doch nie langweilig. Wir stecken zwischen den Zeilen, vermitteln zwischen Mitgliedern und Anbauteam, haben hier ein Ohr und da eine Hand frei. Es macht viel Spaß! Wenn Du Lust hast, bei uns mitzuarbeiten, melde dich gerne unter [support(at)gemuesekoop.de](mailto:support(at)gemuesekoop.de) – wir freuen uns auf dich!
+Aktuell teilen wir die Arbeit unter vier Mitgliedern auf. Zu unseren Aufgaben gehört die Kontobetreuung und Finanzverwaltung, wir machen die Mitgliederorganisation inklusive Mail-Kommunikation und Depot-Organisation. Auch die Versicherungen, die Steuererklärung der Koop, sowie die Berufsgenossenschaft fallen in unseren Bereich. Es ist manchmal ganz schön viel, doch nie langweilig. Wir stecken zwischen den Zeilen, vermitteln zwischen Mitgliedern und Anbauteam, haben hier ein Ohr und da eine Hand frei. Es macht viel Spaß! Wenn Du Lust hast, bei uns mitzuarbeiten, melde dich gerne bei uns – wir freuen uns auf dich!
 
 ## Beirat
 
