@@ -111,7 +111,7 @@ permalink: /faq
       Kann ich auch mehrere Gemüseanteile beziehen?
     </summary>
     <p>
-      Ja, das geht! Sprich uns einfach an, am besten indem Du eine Mail an <a href="mailto:support(at)gemuesekoop.de">support(at)gemuesekoop.de</a> schreibst.
+      Ja, das geht, sprich uns einfach an.
     </p>
   </details>
   <details>
