@@ -1,0 +1,52 @@
+# This is a test to see whether we can build our site via jekyll, so that the server can grab it
+name: Build Jekyll
+
+on:
+  # Runs on pushes targeting the default branch
+  push:
+    branches: ["main"]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
+# However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
+concurrency:
+  group: "builder"
+  cancel-in-progress: false
+
+jobs:
+  # Build job
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@8575951200e472d5f2d95c625da0c7bec8217c42 # v1.161.0
+        with:
+          ruby-version: '3.1' # Not needed with a .ruby-version file
+          bundler-cache: true # runs 'bundle install' and caches installed gems automatically
+          cache-version: 0 # Increment this number if you need to re-download cached gems
+      - name: Install bundle
+        run: bundle install
+      - name: Build with Jekyll
+        run: bundle exec jekyll build
+        env:
+          JEKYLL_ENV: production
+      - name: Create env variable for file name
+        run: echo "DAT=koopwebsite.zip" >> "$GITHUB_ENV"
+      - name: Pack all output
+        run: |
+          echo ${{ env.DAT }}
+          cd _site
+          zip -r ${{ env.DAT }} ./*
+          cd .. 
+          mv _site/${{ env.DAT }} ./
+      - name: Setup SSH agent
+        uses: webfactory/ssh-agent@v0.9.0
+        with:
+          ssh-private-key: ${{ secrets.SSHKEY }}
+      - name: Copy zip-file via SSH
+        run: cat $DAT | ssh -o StrictHostkeyChecking=no websitesync@bosskoop.gemuesekoop.de -p 31415 
+        

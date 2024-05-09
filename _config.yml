@@ -11,3 +11,6 @@ title: Gemüsekoop e.V.
 exclude:
   - doc
   - README.md
+  - vendor
+
+repository: GemuesekoopKoeln/gemuesekoopkoeln.github.io
