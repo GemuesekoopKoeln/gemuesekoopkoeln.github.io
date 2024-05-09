@@ -1,7 +1,8 @@
-rsync -av -e 'ssh -p 31415' --chmod=Du=rwx,Dg=rx,Do=x,Fu=rwx,Fg=rx,Fo=x ./_site/* ben@45.129.182.255:/home/ben/www.gemuesekoop.de
+# Example file to push changes manually from a local build
+rsync -av -e 'ssh -p 31415' --chmod=Du=rwx,Dg=rx,Do=x,Fu=rwx,Fg=rx,Fo=x ./_site/* {user}@{server-ip}:/home/{user}/www.gemuesekoop.de
 
 su
-chown -R www-data:www-data /home/ben/www.gemuesekoop.de/*
+chown -R www-data:www-data /home/{user}/www.gemuesekoop.de/*
 rm -r /srv/koop/www/www.gemuesekoop.de/assets
 rm /srv/koop/www/www.gemuesekoop.de/*
-mv /home/ben/www.gemuesekoop.de/* /srv/koop/www/www.gemuesekoop.de/
+mv /home/{user}/www.gemuesekoop.de/* /srv/koop/www/www.gemuesekoop.de/
