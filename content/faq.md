@@ -12,7 +12,7 @@ permalink: /faq
     </summary>
     <p>      
       Das Gartenjahr der Gemüsekoop läuft jeweils von Anfang März bis Ende Februar des Folgejahres. Unsere neue Saison beginnt wieder zum 1. März.<br />
-      Wenn Du jetzt schon weißt, dass du dabei sein möchtest, trage dich auf unsere <a href="/mitmachen">Warteliste</a> ein.
+      Wenn Du jetzt schon weißt, dass du dabei sein möchtest, trage dich auf unsere Warteliste ein.
       Wir machen ein paar mal im Jahr Ackertage, eine und Hofführung zum Saisonstart! Sprich uns gerne an oder schau in den Kalender auf der Startseite!
     </p>
   </details>
@@ -111,7 +111,7 @@ permalink: /faq
       Kann ich auch mehrere Gemüseanteile beziehen?
     </summary>
     <p>
-      Ja, das geht! Sprich uns einfach an, am besten indem Du eine Mail an <a href="mailto:support(at)gemuesekoop.de">support(at)gemuesekoop.de</a> schreibst.
+      Ja, das geht, sprich uns einfach an.
     </p>
   </details>
   <details>
@@ -136,7 +136,7 @@ permalink: /faq
       Ist ein Einstieg auch unterjährig nach der Beitragsrunde möglich?
     </summary>
     <p>
-      Wenn du bei uns mitmachen möchtest, kannst Du Dich jederzeit auf die <a href="/assets/files/Wartelistenantrag2023.pdf">Warteliste</a> setzen lassen. Tritt dann im laufenden Jahr ein bestehendes Mitglied aus, rücken die Interessenten von der Warteliste nach und können auch unterjährig in unsere Kooperative eintreten.
+      Wenn du bei uns mitmachen möchtest, kannst Du Dich jederzeit auf die Warteliste setzen lassen. Tritt dann im laufenden Jahr ein bestehendes Mitglied aus, rücken die Interessenten von der Warteliste nach und können auch unterjährig in unsere Kooperative eintreten.
       Die solidarische Preisgestaltung ist dann jedoch nicht mehr so einfach möglich, da die Finanzierung für das Jahr abgeschlossen ist. Das bedeutet, in dem Fall, dass Du nach der Beitragsrunde Mitglied wirst, bitten wir Dich darum, für die laufende Saison mindestens den Richtwert für Deinen Anteil zu bezahlen, damit wir unseren Budgetplan einhalten können. Sollte Dir dies nicht möglich sein, sprich uns bitte an und/oder maile uns!
     </p>
   </details>
@@ -147,7 +147,7 @@ permalink: /faq
     <p>
       Eine Investitionseinlage (200€) ist ein Beitrag, der von allen Mitgliedern bei Vereinsbeitritt entrichtet wird und der uns den Betriebsaufbau ermöglicht. Durch die Investitionseinlage gehört der Betrieb uns allen zu gleichen Teilen. Falls du das Projekt zum Ende eines Lieferjahres verlassen möchtest, erhältst Du die Einlage zurück, sobald ein neues Mitglied gefunden ist, das für dich eintritt und/oder der Verein liquide genug ist.
 
-Falls du Schwierigkeiten hast die Investitionseinlage zu zahlen, meld dich einfach beim Support <a href="mailto:support(at)gemuesekoop.de">support(at)gemuesekoop.de</a>
+Falls du Schwierigkeiten hast die Investitionseinlage zu zahlen, sprich uns einfach an.
 Wir sind inzwischen weniger als zu Beginn darauf angewiesen, dass alle Mitgleider die Einlage zahlen.
     </p>
   </details>
