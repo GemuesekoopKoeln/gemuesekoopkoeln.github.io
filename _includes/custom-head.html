@@ -3,5 +3,8 @@
   content="{{ page.description }}">
 <link rel="stylesheet" href="/assets/css/styles.css">
 {% if page.slider %}
-  <script src="/assets/js/slider.js"></script>
+  <script src="/assets/js/slider.min.js"></script>
+{% endif%}
+{% if page.mail-inclusion %}
+  <script src="/assets/js/mail-inclusion.min.js" defer></script>
 {% endif%}
