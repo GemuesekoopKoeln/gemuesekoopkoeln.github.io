@@ -2,6 +2,7 @@
 layout: default
 title: impressum
 permalink: /impressum
+mail-inclusion: true
 ---
 
 # Impressum
@@ -14,7 +15,7 @@ Vorstand: Arne Rötting, Lotta Drummen, Raphael Lion
 Widdersdorfer Landstr. 103  
 50859 Köln-Lövenich
 
-E-Mail: [info(at)gemuesekoop.de](mailto:info(at)gemuesekoop.de)
+Für E-Mail Kontakt bitte <a class="mail" href="#">hier</a> klicken.
 
 Vereinsregister 18785
 
