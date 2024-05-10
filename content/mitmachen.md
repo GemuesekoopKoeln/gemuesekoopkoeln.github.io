@@ -10,7 +10,7 @@ Du hast Interesse daran, Teil der Gemüsekoop zu werden? Wir freuen uns darüber
 
 Unser Gartenjahr beginnt jeweils zum 1. März eines Jahres. Die solidarische Preisgestaltung ist ein Eckpfeiler unseres Konzepts, dafür treffen wir uns am Anfang des Jahres mit allen Mitgliedern zur Beitragsrunde, bei der die Gemüse- und Obstanteile vergeben und die Finanzierung der kommenden Saison gesichert werden. Bei dieser Gelegenheit empfangen wir auch neue Mitglieder in der Koop.
 
-Wenn du ab März unser Gemüse und Obst beziehen möchtest, schreibe eine E-Mail an [support(at)gemuesekoop.de](mailto:support(at)gemuesekoop.de), um dir einen freien Anteil zu sichern.
+Wenn du ab März unser Gemüse und Obst beziehen möchtest, melde dich einfach über unsere [Kontaktadresse](/kontakt), um dir einen freien Anteil zu sichern.
 Du kannst uns auch während der laufenden Saison schreiben. Es sind ggf. noch Anteile frei oder wir setzen dich auf die Warteliste. 
 
 Falls du noch Fragen zu unserer Finanzierung und den monatlichen Beiträgen hast, schau nochmal unter „Konzept“ oder in die FAQs nach.
@@ -23,7 +23,7 @@ Unsere Vereinssatzung gibt es [hier](/assets/files/satzung.pdf).
 Du kannst die Gemüsekoop auch finanziell und/oder ehrenamtlich unterstützen, ohne einen Gemüse- und Obstanteil zu beziehen. In diesem Fall würdest du unsere regelmäßigen Erntemails mit aktuellen Informationen zum Hof bekommen und frei entscheiden, ob und wie du dich am Hof einbringen magst. Es steht dir offen an Erntetagen vorbeizuschauen oder dich in AGs zu engagieren. Um die Kooperative mitzugestalten, hättest du auf Mitgliederversammlungen auch ein Stimmrecht.
 
 ## Mitglied werden
-Um Mitglied zu werden, fülle einfach den folgenden Antrag aus und schicke ihn uns per E-Mail ([support(at)gemuesekoop.de](mailto:support(at)gemuesekoop.de)) oder per Post zu (Gemüsekoop e.V., Widdersdorfer Landstr. 103, 50859 Köln). Die Beitragshöhe kannst Du frei wählen. Wir freuen uns sehr über Dein Interesse und Deine Unterstützung!
+Um Mitglied zu werden, fülle einfach den folgenden Antrag aus und schicke ihn uns per [E-Mail](/kontakt) oder per Post zu (Gemüsekoop e.V., Widdersdorfer Landstr. 103, 50859 Köln). Die Beitragshöhe kannst Du frei wählen. Wir freuen uns sehr über Dein Interesse und Deine Unterstützung!
 
 * [Zum Antrag mit Ernteanteil](/assets/files/Beitrittsantrag-mit.pdf)
 * [Zum Antrag ohne Ernteanteil](/assets/files/Beitrittsantrag-ohne.pdf)
