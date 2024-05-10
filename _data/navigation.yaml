@@ -7,8 +7,6 @@ pages:
     url: "/konzept_solawi"
   - title: "Mitmachen"
     url: "/mitmachen"
-  - title: "Führungen"
-    url: "/fuehrungen"
   - title: Kontakt
     url: "/kontakt"
   - title: FAQ

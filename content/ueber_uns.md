@@ -10,16 +10,8 @@ slider:
 
 # Wer wir sind
 
-Die Gemüsekoop ist ein Zusammenschluss vieler Menschen, die sich in verschiedenen Teams, Depots und Arbeitsgruppen engagieren. Sie organisieren die Arbeit der Koop, den Anbau, die Verteilung und sich selbst in unterschiedlichen Gruppen.
+Die Gemüsekoop ist ein Zusammenschluss vieler Menschen, die sich in verschiedenen Teams, Depots und Arbeitsgruppen engagieren. Alle zusammen organisieren die Arbeit der Koop, den Anbau, die Verteilung und sich selbst in unterschiedlichen Gruppen.
 
-## Orgateam
-<div class="grid" markdown="1">
-  <img loading="lazy" width="365px" height="274px" alt="Orgateam bei einer Sitzung" src="/assets/images/ueber-uns/infoveranstaltung.jpg">
-  <img loading="lazy" width="365px" height="274px" alt="Unsere erste Infoveranstaltung!"
-  src="/assets/images/ueber-uns/orgateam-sitzung.jpg"/> 
-</div>
-
-Hallo! Wir sind das Orga-Team der Gemüsekoop. Wir sind aktuell ca. 10 Leute, mal mehr, mal weniger. Angefangen miteinander zu arbeiten haben wir im Februar 2015 mit dem Aufbau der Gemüsekoop. Bei uns sind die unterschiedlichsten Menschen dabei, von Mitte zwanzig bis Anfang sechzig. Beruflich, geschlechtlich, charakterlich sind wir bunt gemischt, uns alle eint der gemeinsame Gestaltungswille. Wir haben die Liebe zur Landwirtschaft, zur Selbstverwaltung und den Mut, Utopien anzupacken gemeinsam. Seit wir angefangen haben, gemeinsam an diesem Projekt zu arbeiten, wachsen wir immer wieder neu zusammen. Wir freuen uns, wenn neue Mitglieder dazu kommen, denn jeder Mensch hat seine einzigartige Perspektive beizutragen. Wir sind jedes Mal neugierig, wer da noch kommt und was dieser Mensch an Fähigkeiten und Ideen mitbringt. Unsere Gruppe ist offen für jede*n und wir bemühen uns, einen einfachen Einstieg für Neue zu ermöglichen!
 
 ## Anbauteam
 <!--img loading="lazy" alt="Anbauteam bei der Arbeit" src="/assets/images/ueber-uns/anbauteam300x200.jpg"/-->
@@ -56,18 +48,20 @@ Hallo! Wir sind das Orga-Team der Gemüsekoop. Wir sind aktuell ca. 10 Leute, ma
   <div class="dots" style="text-align:center"></div>
 </div>
 
-Unser Anbauteam ist in wechselnder Besetzung von Montag bis Freitag an der Hofstelle anzutreffen. Wir kümmern uns natürlich in erster Linie um die Pflanzen – von der Aussaat bzw Jungpflanzenanlieferung, über Pflanzung und Pflege bis zur Ernte. Auch die Kommissionierung und Ausfahrt des Gemüses an den Liefertagen fällt in unseren Bereich sowie das Intakthalten der Hof-Infrastruktur. Wir machen die Flächen- und Anbauplanung, Bodenbearbeitung, säen und pflegen die Gründüngung, bauen Maschinen und lagern das Gemüse. Wir betreuen die Praktikant*innen und sind generell Ansprechpartner für die vielen Menschen, die aus Interesse an Landwirtschaft und Gemeinschaft zum Hof kommen und uns ehrenamtlich bei der Arbeit unterstützen. 
+Unser Anbauteam ist in wechselnder Besetzung von Montag bis Freitag an der Hofstelle anzutreffen. Wir kümmern uns in erster Linie um die Pflanzen – von der Aussaat, über Pflanzungen und Pflege bis zur Ernte. An den Erntetagen komissionieren wir das Gemüse und fahren es zu euch in die Depots. Zudem schauen wir nach der Hof-Infrastruktur, wir machen die Flächen- und Anbauplanung, Bodenbearbeitung, säen und pflegen die Gründüngung, bauen Maschinen und lagern das Gemüse. 
+Häufig haben wir Praktikant*innen bei uns und sind generell Ansprechpartner für die vielen Menschen, die aus Interesse an Landwirtschaft und Gemeinschaft zum Hof kommen und uns ehrenamtlich bei der Arbeit unterstützen. 
 
-Im ersten Jahr haben wir uns um Bestellung und Installation/Aufbau von Bewässerungssystem, Folientunnel und Lagermöglichkeiten gekümmert. In den folgenden Jahren wurde an vielen kleinen Stellen unsere Infrastruktur ausgebaut und unser Anbausystem verfeinert.
-
-Wenn Du Lust hast, uns kennenzulernen und mit uns zu arbeiten, melde dich gern bei uns. Wir freuen uns auf Dich!
+Wenn Du Lust hast, uns kennenzulernen und mit uns zu arbeiten, melde dich gerne bei uns. Wir freuen uns auf Dich!
 
 ## Supportteam
 
 Hallo, wir sind das Supportteam der Gemüsekoop. Wir sind für die Arbeit “hinter den Kulissen” zuständig und sorgen für die gesamte Organisation und Verwaltung der Kooperative.
 
-Aktuell sind wir 4 Mitglieder und teilen uns die Arbeit auf. Manchmal gehen wir auch einfach nur lecker essen. 😉  
-Zu unseren Aufgaben gehört die Kontobetreuung und Finanzverwaltung, wir machen die Mitgliederorganisation inklusive Mail-Kommunikation und Depot-Organisation. Auch die Versicherungen, die Steuererklärung der Koop, sowie die Berufsgenossenschaft fallen in unseren Bereich. Es ist manchmal ganz schön viel, doch nie langweilig. Wir stecken zwischen den Zeilen, vermitteln zwischen Mitgliedern und Anbau- wie Orgateam, haben hier ein Ohr und da eine Hand frei. Es macht viel Spaß! Wenn Du Lust hast, bei uns mitzuarbeiten, melde dich gerne unter [support(at)gemuesekoop.de](mailto:support(at)gemuesekoop.de) – wir freuen uns auf dich!
+Aktuell teilen wir die Arbeit unter vier Mitgliedern auf. Zu unseren Aufgaben gehört die Kontobetreuung und Finanzverwaltung, wir machen die Mitgliederorganisation inklusive Mail-Kommunikation und Depot-Organisation. Auch die Versicherungen, die Steuererklärung der Koop, sowie die Berufsgenossenschaft fallen in unseren Bereich. Es ist manchmal ganz schön viel, doch nie langweilig. Wir stecken zwischen den Zeilen, vermitteln zwischen Mitgliedern und Anbauteam, haben hier ein Ohr und da eine Hand frei. Es macht viel Spaß! Wenn Du Lust hast, bei uns mitzuarbeiten, melde dich gerne bei uns – wir freuen uns auf dich!
+
+## Beirat
+
+Hallo, wir sind der Beirat der Gemüsekoop. Wir unterstützen den Vorstand bei kniffligen Fragen. Zum Beispiel haben wir ein transparentes Lohnkonzept für die Kooperative erarbeitet. Ansonsten behält Angela die Finanzen im Blick und Jochen und Christoph kümmern sich abseits der Arbeit im Beirat um die Bienen, welche am Hof zuhause sind. 
 
 ## Arbeitsgruppen
 
@@ -116,10 +110,25 @@ Hier seht ihr einige Bilder vom Acker und aus der Koop:
   <!-- The dots/circles -->
   <div class="dots" style="text-align:center;"></div>
 </div>
+
 ## Depots
 
-Die Gemüsekoop hat derzeit über 240 Haushalte, die sich in verschiedenen Stadtteilgruppen zusammenfinden und organisieren. Wir liefern unser Gemüse einmal wöchentlich in die entsprechenden **Stadtteildepots** aus, wo die Mitglieder es abholen.
+Die Gemüsekoop hat derzeit über 300 Haushalte, die sich in verschiedenen Stadtteilgruppen zusammenfinden und organisieren. Wir liefern unser Gemüse einmal wöchentlich in die entsprechenden **Stadtteildepots** aus, wo die Mitglieder es abholen.
 
-<iframe width="100%" loading="lazy" height="450" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=6.826535761356355%2C50.95548355451079%2C6.82915359735489%2C50.95717818023661&amp;layer=mapnik" style="border: 1px solid black"></iframe>
-<small><a href="https://www.openstreetmap.org/#map=19/50.95633/6.82784">View Larger Map</a></small>
+* Ehrenfeld - Kolbhalle: Helmholtzstraße 8, 50825 Köln
+* Ehrenfeld - TrinkgenossIn: Subbelratherstraße 254, 50825
+* Agnesviertel/Nippes - FLora: Krüthstraße, 50733 Köln
+* Nippes: Amsterdamerstraße 149, 50735 Köln
+* Mühlheim: Schleiermacherstraße 8, 51063 Köln
+* Kalk: Kapellenstraße 9a, 51103 Köln
+* Poll: Auf dem Sandberg 41, 51105 Köln
+* Südstadt: Zugweg 22, 50677 Köln
+* Neustadt Süd - Autonomes Zentrum: Luxemburgerstraße 93, 50939 Köln
+* Sülz - Tante Olga: Berrenratherstraße 406, 50937
+* Lindenthal - The Good Food: Weyertal 42, 50937 Köln
+* Lövenich - Kölner Westen am Hof: Widdersdorfer Landstraße 103, 50859 Köln
+
+
+<!--iframe width="100%" loading="lazy" height="450" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=6.826535761356355%2C50.95548355451079%2C6.82915359735489%2C50.95717818023661&amp;layer=mapnik" style="border: 1px solid black"></iframe>
+<small><a href="https://www.openstreetmap.org/#map=19/50.95633/6.82784">View Larger Map</a></small-->
 
