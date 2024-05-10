@@ -1,4 +1,3 @@
-# This is a test to see whether we can build our site via jekyll, so that the server can grab it
 name: Build Jekyll
 
 on:
@@ -32,8 +31,8 @@ jobs:
         run: bundle install
       - name: Build with Jekyll
         run: bundle exec jekyll build
-        env:
-          JEKYLL_ENV: production
+        #env:
+        #  JEKYLL_ENV: production
       - name: Create env variable for file name
         run: echo "DAT=koopwebsite.zip" >> "$GITHUB_ENV"
       - name: Pack all output
