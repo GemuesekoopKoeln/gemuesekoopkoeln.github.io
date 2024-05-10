@@ -15,7 +15,7 @@ Vorstand: Arne Rötting, Lotta Drummen, Raphael Lion
 Widdersdorfer Landstr. 103  
 50859 Köln-Lövenich
 
-Für E-Mail Kontakt bitte <a class="mail" href="#">hier</a> klicken.
+Zur Kontaktaufnahme per E-Mail bitte <a class="mail" href="#">hier</a> klicken.
 
 Vereinsregister 18785
 
