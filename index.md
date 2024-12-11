@@ -22,6 +22,8 @@ Großer Obst Anteil 25€
 Wir freuen uns sehr, diesen wichtigen, schönen und verbindenden Teil unserer SoLawi auch in diesem Jahr zusammen mit Euch zu verbringen! Wir möchten neue Mitglieder begrüßen und solidarisch ins nächste Jahr starten.
 Es wird sowohl einen Jahresrückblick geben, als auch einen Ausblick auf die kommende Saison! Zudem werden sowohl die Finanzen für die 9. Ackersaison vorgestellt, als auch die Ausweitung unseres Obstanteils! 🍏 Es wird also spannend! Wenn du mitmachen möchtest, kannst du uns eine [E-Mail](/kontakt) schreiben und bekommst dann alle Infos. Noch sind einige Anteile frei!
 
+<img alt="Menschen sitzen im Saal" width="740" height="606" src="/assets/images/mitmachen/bieterrunde.jpg"/>
+
 <figure class="wp-block-video">
 	<iframe width="100%" height="418" src="https://www.youtube-nocookie.com/embed/V7OTIQrQJYw?si=3i7bhUMTJq1ySnKE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </figure>
