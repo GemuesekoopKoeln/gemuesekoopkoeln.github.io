@@ -8,6 +8,10 @@ slider: true
   <p>Herzlich willkommen bei der Gemüsekoop Köln</p>
 </div>
 
+## Anstehende Beitragsrunde
+Unsere jährliche Beitragsrunde wird am Sonntag, den 26. Januar 2025 stattfinden. Alle Interessierten können uns eine [E-Mail](/kontakt) schreiben.
+
+
 <figure class="wp-block-video">
 	<iframe width="100%" height="418" src="https://www.youtube-nocookie.com/embed/V7OTIQrQJYw?si=3i7bhUMTJq1ySnKE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </figure>
