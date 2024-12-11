@@ -8,7 +8,10 @@ slider: true
   <p>Herzlich willkommen bei der Gemüsekoop Köln</p>
 </div>
 
+<div style="text-align:center;">
 ## Werde Teil unserer Kooperative, komm zur Beitragsrunde am 26. Januar
+
+Hast du Lust auf frisches regionales Gemüse, fair produziert, Verpackungsfrei und ökologisch vom Hof um die Ecke?	
 Die Beitragsrunde ist die Veranstaltung, in der die Finanzierung unserer Kooperative jeweils für das Folgejahr gemeinsam gesichert wird und die Ernteanteile vergeben werden. 
 
 Die Richtwerte sind:
