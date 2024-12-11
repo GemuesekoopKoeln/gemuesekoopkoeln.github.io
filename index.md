@@ -17,9 +17,11 @@ Die Beitragsrunde ist die Veranstaltung, in der die Finanzierung unserer Koopera
 Die Richtwerte sind:
 
 Kleiner Gemüse Anteil für ca. 2 Personen: 73,50€ 
+
 Kleiner Obst Anteil: 12,50€
 
 Großer Gemüse Anteil für ca. 4 Personen: 137€
+
 Großer Obst Anteil 25€
 
 Wir freuen uns sehr, diesen wichtigen, schönen und verbindenden Teil unserer SoLawi auch in diesem Jahr zusammen mit Euch zu verbringen! Wir möchten neue Mitglieder begrüßen und solidarisch ins nächste Jahr starten.
