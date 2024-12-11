@@ -18,7 +18,7 @@ Die Richtwerte sind:
 -  Kleiner Gemüse Anteil für ca. 2 Personen: 73,50€
 -  Kleiner Obst Anteil: 12,50€
 -  Großer Gemüse Anteil für ca. 4 Personen: 137€
--  Großer Obst Anteil 25€
+-  Großer Obst Anteil: 25€
 
 Wir freuen uns sehr, diesen wichtigen, schönen und verbindenden Teil unserer SoLawi auch in diesem Jahr zusammen mit Euch zu verbringen! Wir möchten neue Mitglieder begrüßen und solidarisch ins nächste Jahr starten.
 Es wird sowohl einen Jahresrückblick geben, als auch einen Ausblick auf die kommende Saison! Zudem werden sowohl die Finanzen für die 9. Ackersaison vorgestellt, als auch die Ausweitung unseres Obstanteils! 🍏 Es wird also spannend! Wenn du mitmachen möchtest, kannst du uns eine [E-Mail](/kontakt) schreiben und bekommst dann alle Infos. Noch sind einige Anteile frei!
