@@ -9,7 +9,7 @@ slider: true
 </div>
 
 ## Anstehende Beitragsrunde
-Unsere jährliche Beitragsrunde wird am Sonntag, den 26. Januar 2025 stattfinden. Alle Interessierten können uns eine [E-Mail](/mitmachen) schreiben.
+Unsere jährliche Beitragsrunde wird am Sonntag, den 26. Januar 2025 stattfinden. Alle Interessierten können uns eine [E-Mail](/kontakt) schreiben.
 
 
 <figure class="wp-block-video">
