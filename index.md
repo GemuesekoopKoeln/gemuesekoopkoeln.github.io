@@ -14,6 +14,9 @@ slider: true
 Hast du Lust auf frisches regionales Gemüse, fair produziert, verpackungsfrei und ökologisch vom Hof um die Ecke?	
 Die Beitragsrunde ist die Veranstaltung, in der die Finanzierung unserer Kooperative jeweils für das Folgejahr gemeinsam gesichert wird und die Ernteanteile vergeben werden. 
 
+Unsere jährliche Beitragsrunde wird am Sonntag den 26. Januar 2025 um 11:30 Uhr im großen Saal des Bürgerzentrums Chorweiler (Pariser Platz 1, 50765 Köln) stattfinden.  
+Der Einlass beginnt um 11:00 Uhr und die ganze Veranstaltung dauert voraussichtlich bis circa 14:30 Uhr.
+
 Die Richtwerte sind:
 -  Kleiner Gemüse Anteil für ca. 2 Personen: 73,50€
 -  Kleiner Obst Anteil: 12,50€
