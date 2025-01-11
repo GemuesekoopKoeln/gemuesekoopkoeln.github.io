@@ -119,6 +119,7 @@ Die Gemüsekoop hat derzeit über 300 Haushalte, die sich in verschiedenen Stadt
 * Ehrenfeld - TrinkgenossIn: Subbelratherstraße 254, 50825
 * Agnesviertel/Nippes - FLora: Krüthstraße, 50733 Köln
 * Nippes: Amsterdamerstraße 149, 50735 Köln
+* Nippes: Kesselhausstraße, Bauwagen in der Autofreien Siedlung, 50733 Köln
 * Mühlheim: Schleiermacherstraße 8, 51063 Köln
 * Kalk: Kapellenstraße 9a, 51103 Köln
 * Poll: Auf dem Sandberg 41, 51105 Köln
