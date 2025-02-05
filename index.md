@@ -9,13 +9,10 @@ slider: true
 </div>
 
 
-## Werde Teil unserer Kooperative, komm zur Beitragsrunde am 26. Januar
+## Werde Teil unserer Kooperative! Es sind noch wenige Anteile für die Saison 2025 frei
 
 Hast du Lust auf frisches regionales Gemüse, fair produziert, verpackungsfrei und ökologisch vom Hof um die Ecke?	
-Die Beitragsrunde ist die Veranstaltung, in der die Finanzierung unserer Kooperative jeweils für das Folgejahr gemeinsam gesichert wird und die Ernteanteile vergeben werden. 
-
-Unsere jährliche Beitragsrunde wird am Sonntag den 26. Januar 2025 um 11:30 Uhr im großen Saal des Bürgerzentrums Chorweiler (Pariser Platz 1, 50765 Köln) stattfinden.  
-Der Einlass beginnt um 11:00 Uhr und die ganze Veranstaltung dauert voraussichtlich bis circa 14:30 Uhr.
+Das Gemüse wird in dein Stadtviertel geliefert und du kannst es dann bei dir um die Ecke abholen. Eine Liste der Depots findest du auf "Wer wir sind" Ein kleiner Anteil versorgt ca. 2 Personen. Von März bis Mai liefern wir nur alle 2 Wochen, danach wieder wöchentlich.
 
 Die Richtwerte sind:
 -  Kleiner Gemüse Anteil für ca. 2 Personen: 73,50€
@@ -23,16 +20,12 @@ Die Richtwerte sind:
 -  Großer Gemüse Anteil für ca. 4 Personen: 137€
 -  Großer Obst Anteil: 25€
 
-Wir freuen uns sehr, diesen wichtigen, schönen und verbindenden Teil unserer SoLawi auch in diesem Jahr zusammen mit Euch zu verbringen! Wir möchten neue Mitglieder begrüßen und solidarisch ins nächste Jahr starten.
-Es wird sowohl einen Jahresrückblick geben, als auch einen Ausblick auf die kommende Saison! Zudem werden sowohl die Finanzen für die 9. Ackersaison vorgestellt, als auch die Ausweitung unseres Obstanteils! 🍏 Es wird also spannend! Wenn du mitmachen möchtest, kannst du uns eine [E-Mail](/kontakt) schreiben und bekommst dann alle Infos. Noch sind einige Anteile frei!
-
-<img alt="Menschen sitzen im Saal" width="740" height="606" src="/assets/images/mitmachen/bieterrunde.jpg"/>
 
 <figure class="wp-block-video">
 	<iframe width="100%" height="418" src="https://www.youtube-nocookie.com/embed/V7OTIQrQJYw?si=3i7bhUMTJq1ySnKE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </figure>
 
-Auf 2,4ha gepachteter Fläche im Kölner Westen, zwischen Lövenich und Widdersdorf, bauen wir seit dem Frühjahr 2017 für uns und unsere Mitglieder über **45 Sorten Gemüse** an – **unverpackt**, **regional**, **saisonal** und **ökologisch**! Unsere Ernte liefern wir einmal wöchentlich ins Kölner Stadtgebiet, in unsere Stadtteildepots, wo sie von den derzeit **300 Haushalten** der Gemüsekoop abgeholt wird. Parallel dazu sind wir mit Aufbau und Entwicklung unseres Betriebes beschäftigt. Seit diesem Jahr gibt es einen Obst Anteil mit Äpfeln und Birnen von der Streuobstwiese eines Mitglieds. Parallel dazu pflanzen wir Bäume auf unserem Acker und steigen selbst in den Obstbau ein.
+Auf 2,4ha gepachteter Fläche im Kölner Westen, zwischen Lövenich und Widdersdorf, bauen wir seit dem Frühjahr 2017 für uns und unsere Mitglieder über **50 Sorten Gemüse** an – **unverpackt**, **regional**, **saisonal** und **ökologisch**! Unsere Ernte liefern wir einmal wöchentlich ins Kölner Stadtgebiet, in unsere Stadtteildepots, wo sie von den derzeit **300 Haushalten** der Gemüsekoop abgeholt wird. Parallel dazu sind wir mit Aufbau und Entwicklung unseres Betriebes beschäftigt. Seit diesem Jahr gibt es einen Obst Anteil mit Äpfeln und Birnen von der Streuobstwiese eines Mitglieds und von einem befreundeten Obstbauern. Parallel dazu pflanzen wir Bäume auf unserem Acker und steigen selbst in den Obstbau ein.
 
 
 <div class="boxes">
