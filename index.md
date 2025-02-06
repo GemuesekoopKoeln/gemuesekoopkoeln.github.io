@@ -11,22 +11,35 @@ slider: true
 
 ## Werde Teil unserer Kooperative! Es sind noch wenige Anteile für die Saison 2025 frei
 
-Hast du Lust auf frisches regionales Gemüse, fair produziert, verpackungsfrei und ökologisch vom Hof um die Ecke?	
-Das Gemüse wird in dein Stadtviertel geliefert und du kannst es dann bei dir um die Ecke abholen. Eine Liste der Depots findest du auf "Wer wir sind" Ein kleiner Anteil versorgt ca. 2 Personen. Von März bis Mai liefern wir nur alle 2 Wochen, danach wieder wöchentlich.
+Hast du Lust auf frisches regionales Gemüse, fair produziert, verpackungsfrei und ökologisch vom Hof um die Ecke? Das Gemüse wird in dein Stadtviertel geliefert und du kannst es dann bei dir um die Ecke abholen. Eine Liste der Depots (Abholstellen) findest du auf unserer Website (gemuesekoop.de) unter "Wer wir sind" Ein kleiner Anteil versorgt ca. 2 Personen. Von März bis Mai liefern wir nur alle 2 Wochen, da gibt es Saisonbedingt etwas weniger, danach wieder wöchentlich.
 
 Die Richtwerte sind:
--  Kleiner Gemüse Anteil für ca. 2 Personen: 73,50€
--  Kleiner Obst Anteil: 12,50€
--  Großer Gemüse Anteil für ca. 4 Personen: 137€
--  Großer Obst Anteil: 25€
+
+Kleiner Gemüse Anteil für ca. 2 Personen: 73,50€
+Kleiner Obst Anteil: 12,50€
+Großer Gemüse Anteil für ca. 4 Personen: 137€
+Großer Obst Anteil: 25€
+
+Auf 2,4ha gepachteter Fläche im Kölner Westen, zwischen Lövenich und Widdersdorf, bauen wir seit dem Frühjahr 2017 für uns und unsere Mitglieder über **50 Sorten Gemüse** an – **unverpackt**, **regional**, **saisonal** und **ökologisch**! Unsere Ernte liefern wir einmal wöchentlich ins Kölner Stadtgebiet, in unsere Stadtteildepots, wo sie von den derzeit **300 Haushalten** der Gemüsekoop abgeholt wird. Parallel dazu sind wir mit Aufbau und Entwicklung unseres Betriebes beschäftigt. Seit kurzem gibt es neben Gemüse auch einen Obst Anteil mit Äpfeln und Birnen von der Streuobstwiese eines Mitglieds und von einem befreundeten Obstbauern. Bei uns am Hof pflanzen wir dieses Jahr 750 Obstbäume die uns dann in ein paar Jahren reiche Ernten bringen werden.
+
+Wir setzen uns ein für:
+- Gesundes, ökologisch produziertes Gemüse
+- Eine solidarische Gesellschaft
+- Verpackungsfreie Verteilung
+- Gute Arbeitsbedingungen und faire Löhne
+- Bodenfruchtbarkeit
+- Aufbau von Ökosystemen und Artenvielfalt
+- Wir bilden die Gemüsegärtner*Innen von morgen aus 
+- Du kannst zum Hof kommen, mit uns ernten und die Hände in die Erde stecken
+
+Bei Interesse einfach eine Mail an die support@gemuesekoop.de
+
+Wir freuen uns auf dich!
 
 
 <figure class="wp-block-video">
 	<iframe width="100%" height="418" src="https://www.youtube-nocookie.com/embed/V7OTIQrQJYw?si=3i7bhUMTJq1ySnKE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </figure>
-
-Auf 2,4ha gepachteter Fläche im Kölner Westen, zwischen Lövenich und Widdersdorf, bauen wir seit dem Frühjahr 2017 für uns und unsere Mitglieder über **50 Sorten Gemüse** an – **unverpackt**, **regional**, **saisonal** und **ökologisch**! Unsere Ernte liefern wir einmal wöchentlich ins Kölner Stadtgebiet, in unsere Stadtteildepots, wo sie von den derzeit **300 Haushalten** der Gemüsekoop abgeholt wird. Parallel dazu sind wir mit Aufbau und Entwicklung unseres Betriebes beschäftigt. Seit diesem Jahr gibt es einen Obst Anteil mit Äpfeln und Birnen von der Streuobstwiese eines Mitglieds und von einem befreundeten Obstbauern. Parallel dazu pflanzen wir Bäume auf unserem Acker und steigen selbst in den Obstbau ein.
-
 
 <div class="boxes">
   <div class="box">
