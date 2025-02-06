@@ -11,7 +11,7 @@ slider: true
 
 ## Werde Teil unserer Kooperative! Es sind noch wenige Anteile für die Saison 2025 frei
 
-Hast du Lust auf frisches regionales Gemüse, fair produziert, verpackungsfrei und ökologisch vom Hof um die Ecke? Das Gemüse wird in dein Stadtviertel geliefert und du kannst es dann bei dir um die Ecke abholen. Eine Liste der Depots (Abholstellen) findest du auf unserer Website (gemuesekoop.de) unter "Wer wir sind" Ein kleiner Anteil versorgt ca. 2 Personen. Von März bis Mai liefern wir nur alle 2 Wochen, da gibt es Saisonbedingt etwas weniger, danach wieder wöchentlich.
+Hast du Lust auf frisches regionales Gemüse, fair produziert, verpackungsfrei und ökologisch vom Hof um die Ecke? Das Gemüse wird in dein Stadtviertel geliefert und du kannst es dann bei dir um die Ecke abholen. Eine Liste der Depots (Abholstellen) findest du auf unserer Website unter "Wer wir sind" Ein kleiner Anteil versorgt ca. 2 Personen. Von März bis Mai liefern wir nur alle 2 Wochen, da gibt es Saisonbedingt etwas weniger, ab Ende Mai bis Ende Januar liefern wir wieder wöchentlich.
 
 Die Richtwerte sind:
 
