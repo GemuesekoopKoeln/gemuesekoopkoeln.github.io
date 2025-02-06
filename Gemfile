@@ -13,7 +13,7 @@ source "https://rubygems.org"
 
 # My added theme instead
 source "https://rubygems.org"
-gem "github-pages", "~>227", group: :jekyll_plugins
+gem "github-pages", group: :jekyll_plugins
 gem "kramdown-parser-gfm"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
