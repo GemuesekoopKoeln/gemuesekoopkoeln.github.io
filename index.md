@@ -4,7 +4,7 @@ title: Hallo
 slider: true
 ---
 
-<div class="headline" style="text-align:center;">
+<div class="headline">
   <p>Herzlich willkommen bei der Gemüsekoop Köln</p>
 </div>
 
