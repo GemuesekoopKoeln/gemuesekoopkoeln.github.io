@@ -7,7 +7,7 @@ mail-inclusion: true
 
 # Impressum
 
-### Angaben gemäß § 5 TMG:
+### Angaben gemäß § 5 DDG:
 
 Gemüsekoop Köln e.V.  
 Vorstand: Arne Rötting, Lotta Drummen, Raphael Lion
